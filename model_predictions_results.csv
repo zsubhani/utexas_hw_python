@@ -244,8 +244,16 @@
 243,Mon Feb 4 2019,Denver Nuggets,DEN,103,Detroit Pistons,DET,129,-26,Loss,Win,0
 244,Mon Feb 4 2019,Indiana Pacers,IND,109,New Orleans Pelicans,NOP,107,2,Win,Win,1
 245,Mon Feb 4 2019,Houston Rockets,HOU,118,Phoenix Suns,PHO,110,8,Win,Win,1
-246,Mon Feb 4 2019,San Antonio Spurs,SAS,112,Sacramento Kings,127,-15,Loss,Win,0
-247,Mon Feb 4 2019,Atlanta Hawks,ATL,137,Washington Wizards,129,8,Win,Loss,0
+246,Mon Feb 4 2019,San Antonio Spurs,SAS,112,Sacramento Kings,SAC,127,-15,Loss,Win,0
+247,Mon Feb 4 2019,Atlanta Hawks,ATL,137,Washington Wizards,WAS,129,8,Win,Loss,0
+248,Tue Feb 5 2019,Los Angeles Clippers,LAC,117,Charlotte Hornets,CHO,115,2,Win,Loss,0
+249,Tue Feb 5 2019,Boston Celtics,BOS,103,Cleveland Cavaliers,CLE,96,7,Win,Win,1
+250,Tue Feb 5 2019,Los Angeles Lakers,LAL,94,Indiana Pacers,IND,136,-42,Loss,Loss,1
+251,Tue Feb 5 2019,Minnesota Timberwolves,MIN,106,Memphis Grizzlies,MEM,108,-2,Loss,Win,0
+252,Tue Feb 5 2019,Detroit Pistons,DET,105,New York Knicks,NYK,92,13,Win,Win,1
+253,Tue Feb 5 2019,Orlando Magic,ORL,122,Oklahoma City Thunder,OKC,132,-10,Loss,Loss,1
+254,Tue Feb 5 2019,Toronto Raptors,TOR,119,Philadelphia 76ers,PHI,107,12,Win,Win,1
+255,Tue Feb 5 2019,Miami Heat,MIA,118,Portland Trail Blazers,POR,108,10,Win,Loss,0
 
 
 
