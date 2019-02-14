@@ -303,6 +303,17 @@
 302,Tue Feb 12 2019,San Antonio Spurs,SAS,108,Memphis Grizzlies,MEM,107,1,Win,Win,1
 303,Tue Feb 12 2019,Orlando Magic,ORL,118,New Orleans Pelicans,NOP,88,30,Win,Loss,0
 304,Tue Feb 12 2019,Boston Celtics,BOS,112,Philadelphia 76ers,PHI,109,3,Win,Win,1
+305,Wed Feb 13 2019,Detroit Pistons,DET,110,Boston Celtics,BOS,118,-8,Loss,Loss,1
+306,Wed Feb 13 2019,Memphis Grizzlies,MEM,110,Chicago Bulls,CHI,122,-12,Loss,Win,0
+307,Wed Feb 13 2019,Brooklyn Nets,BRK,148,Cleveland Cavaliers,CLE,139,9,Win,Win,1
+308,Wed Feb 13 2019,Miami Heat,MIA,112,Dallas Mavericks,DAL,101,11,Win,Loss,0
+309,Wed Feb 13 2019,Sacramento Kings,SAC,118,Denver Nuggets,DEN,120,-2,Loss,Loss,1
+310,Wed Feb 13 2019,Milwaukee Bucks,MIL,106,Indiana Pacers,IND,97,9,Win,Win,1
+311,Wed Feb 13 2019,Phoenix Suns,PHO,107,Los Angeles Clippers,LAC,134,-27,Loss,Loss,1
+312,Wed Feb 13 2019,Houston Rockets,HOU,111,Minnesota Timberwolves,MIN,121,-10,Loss,Win,0
+313,Wed Feb 13 2019,Philadelphia 76ers,PHI,126,New York Knicks,NYK,111,15,Win,Win,1
+314,Wed Feb 13 2019,Golden State Warriors,GSW,107,Portland Trail Blazers,POR,129,-22,Loss,Win,0
+315,Wed Feb 13 2019,Washington Wizards,WAS,120,Toronto Raptors,TOR,129,-9,Loss,Loss,1
 
 
 
