@@ -354,13 +354,24 @@
 353,Mon Feb 25 2019,Indiana Pacers,IND,109,Detroit Pistons,DET,113,-4,Loss,Win,0
 354,Mon Feb 25 2019,Atlanta Hawks,ATL,111,Houston Rockets,HOU,119,-8,Loss,Loss,1
 355,Mon Feb 25 2019,Dallas Mavericks,DAL,112,Los Angeles Clippers,LAC,121,-9,Loss,Loss,1
-356,Mon Feb 25 2019,Los Angeles Lakers,LAL,105,Memphis Grizzlies,110,-5,Loss,Win,0
+356,Mon Feb 25 2019,Los Angeles Lakers,LAL,105,Memphis Grizzlies,MEM,110,-5,Loss,Win,0
 357,Mon Feb 25 2019,Phoenix Suns,PHO,124,Miami Heat,MIA,121,3,Win,Loss,0
 358,Mon Feb 25 2019,Sacramento Kings,SAC,105,Minnesota Timberwolves,MIN,112,-7,Loss,Win,0
 359,Mon Feb 25 2019,Philadelphia 76ers,PHI,111,New Orleans Pelicans,NOP,110,1,Win,Win,1
 360,Tue Feb 26 2019,Oklahoma City Thunder,OKC,112,Denver Nuggets,DEN,121,-9,Loss,Win,0
 361,Tue Feb 26 2019,Orlando Magic,ORL,103,New York Knicks,NYK,108,-5,Loss,Win,0
 362,Tue Feb 26 2019,Boston Celtics,BOS,95,Toronto Raptors,TOR,118,-23,Loss,Loss,1
+363,Wed Feb 27 2019,Minnesota Timberwolves,MIN,123,Atlanta Hawks,ATL,131,-8,Loss,Win,0
+364,Wed Feb 27 2019,Portland Trail Blazers,POR,97,Boston Celtics,BOS,92,5,Win,Loss,0
+365,Wed Feb 27 2019,Washington Wizards,WAS,125,Brooklyn Nets,BRK,116,9,Win,Loss,0
+366,Wed Feb 27 2019,Houston Rockets,HOU,118,Charlotte Hornets,CHO,113,5,Win,Win,1
+367,Wed Feb 27 2019,Indiana Pacers,IND,101,Dallas Mavericks,DAL,110,-9,Loss,Win,0
+368,Wed Feb 27 2019,New Orleans Pelicans,NOP,119,Los Angeles Lakers,LAL,125,-6,Loss,Loss,1
+369,Wed Feb 27 2019,Chicago Bulls,CHI,109,Memphis Grizzlies,MEM,107,2,Win,Loss,0
+370,Wed Feb 27 2019,Golden State Warriors,GSW,125,Miami Heat,MIA,126,-1,Win,Loss,0
+371,Wed Feb 27 2019,Milwaukee Bucks,MIL,141,Sacramento Kings,SAC,140,1,Win,Win,1
+372,Wed Feb 27 2019,Detroit Pistons,DET,93,San Antonio Spurs,SAS,105,-12,Loss,Loss,1
+373,Wed Feb 27 2019,Los Angeles Clippers,LAC,105,Utah Jazz,UTA,111,-6,Loss,Loss,1
 
 
 
