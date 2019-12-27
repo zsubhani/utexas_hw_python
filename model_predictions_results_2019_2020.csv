@@ -1,0 +1,683 @@
+﻿game_id,game_date,road_team,road_team_abr,road_team_pts,home_team,home_team_abr,home_team_pts,diff_pts,road_win_result,road_win_prediction,road_win_prediction_correct
+1,Tue Jan 1 2019,New York Knicks,NYK,108,Denver Nuggets,DEN,115,-7,Loss,Loss,1
+2,Tue Jan 1 2019,Philadelphia 76ers,PHI,119,Los Angeles Clippers,LAC,113,6,Win,Win,1
+3,Tue Jan 1 2019,Detroit Pistons,DET,98,Milwaukee Bucks,MIL,121,-23,Loss,Loss,1
+4,Tue Jan 1 2019,Portland Trail Blazers,POR,113,Sacramento Kings,SAC,108,5,Win,Loss,0
+5,Tue Jan 1 2019,Utah Jazz,UTA,116,Toronto Raptors,TOR,122,-6,Loss,Loss,1
+6,Wed Jan 2 2019,Minnesota Timberwolves,MIN,102,Boston Celtics,BOS,115,-13,Loss,Loss,1
+7,Wed Jan 2 2019,New Orleans Pelicans,NOP,121,Brooklyn Nets,BRK,126,-5,Loss,Win,0
+8,Wed Jan 2 2019,Orlando Magic,ORL,112,Chicago Bulls,CHI,84,28,Win,Win,1
+9,Wed Jan 2 2019,Dallas Mavericks,DAL,122,Charlotte Hornets,CHO,84,38,Win,Loss,0
+10,Wed Jan 2 2019,Miami Heat,MIA,117,Cleveland Cavaliers,CLE,92,25,Win,Win,1
+11,Wed Jan 2 2019,Oklahoma City Thunder,OKC,107,Los Angeles Lakers,LAL,100,7,Win,Win,1
+12,Wed Jan 2 2019,Detroit Pistons,DET,101,Memphis Grizzlies,MEM,94,7,Win,Loss,0
+13,Wed Jan 2 2019,Philadelphia 76ers,PHI,132,Phoenix Suns,PHO,127,5,Win,Win,1
+14,Wed Jan 2 2019,Atlanta Hawks,ATL,98,Washington Wizards,WAS,114,-16,Loss,Loss,1
+15,Thu Jan 3 2019,Houston Rockets,HOU,135,Golden State Warriors,GSW,134,1,Win,Loss,0
+16,Thu Jan 3 2019,Denver Nuggets,DEN,117,Sacramento Kings,SAC,113,4,Win,Win,1
+17,Thu Jan 3 2019,Toronto Raptors,TOR,107,San Antonio Spurs,SAS,125,-18,Loss,Win,0
+18,Fri Jan 4 2019,Dallas Mavericks,DAL,93,Boston Celtics,BOS,114,-21,Loss,Loss,1
+19,Fri Jan 4 2019,Indiana Pacers,IND,119,Chicago Bulls,CHI,116,3,Win,Win,1
+20,Fri Jan 4 2019,Utah Jazz,UTA,117,Cleveland Cavaliers,CLE,91,26,Win,Win,1
+21,Fri Jan 4 2019,New York Knicks,NYK,119,Los Angeles Lakers,LAL,112,7,Win,Loss,0
+22,Fri Jan 4 2019,Brooklyn Nets,BRK,109,Memphis Grizzlies,MEM,100,9,Win,Win,1
+23,Fri Jan 4 2019,Washington Wizards,WAS,109,Miami Heat,MIA,115,-6,Loss,Loss,1
+24,Fri Jan 4 2019,Atlanta Hawks,ATL,112,Milwaukee Bucks,MIL,144,-32,Loss,Loss,1
+25,Fri Jan 4 2019,Orlando Magic,ORL,103,Minnesota Timberwolves,MIN,120,-17,Loss,Loss,1
+26,Fri Jan 4 2019,Los Angeles Clippers,LAC,121,Phoenix Suns,PHO,111,10,Win,Win,1
+27,Fri Jan 4 2019,Oklahoma City Thunder,OKC,111,Portland Trail Blazers,POR,109,2,Win,Win,1
+28,Sat Jan 5 2019,New Orleans Pelicans,NOP,133,Cleveland Cavaliers,CLE,98,35,Win,Win,1
+29,Sat Jan 5 2019,Charlotte Hornets,CHO,110,Denver Nuggets,DEN,123,-13,Loss,Loss,1
+30,Sat Jan 5 2019,Utah Jazz,UTA,110,Detroit Pistons,DET,105,5,Win,Win,1
+31,Sat Jan 5 2019,Toronto Raptors,TOR,123,Milwaukee Bucks,MIL,116,7,Win,Loss,0
+32,Sat Jan 5 2019,Dallas Mavericks,DAL,100,Philadelphia 76ers,PHI,106,-6,Loss,Loss,1
+33,Sat Jan 5 2019,Houston Rockets,HOU,101,Portland Trail Blazers,POR,110,-9,Loss,Win,0
+34,Sat Jan 5 2019,Golden State Warriors,GSW,127,Sacramento Kings,SAC,123,4,Win,Win,1
+35,Sat Jan 5 2019,Memphis Grizzlies,MEM,88,San Antonio Spurs,SAS,108,-20,Loss,Loss,1
+36,Sun Jan 6 2019,Miami Heat,MIA,82,Atlanta Hawks,ATL,106,-24,Loss,Win,0
+37,Sun Jan 6 2019,Brooklyn Nets,BRK,117,Chicago Bulls,CHI,100,17,Win,Win,1
+38,Sun Jan 6 2019,Orlando Magic,ORL,96,Los Angeles Clippers,LAC,106,-10,Loss,Loss,1
+39,Sun Jan 6 2019,Los Angeles Lakers,LAL,86,Minnesota Timberwolves,MIN,108,-22,Loss,Win,0
+40,Sun Jan 6 2019,Washington Wizards,WAS,116,Oklahoma City Thunder,OKC,98,18,Win,Loss,0
+41,Sun Jan 6 2019,Charlotte Hornets,CHO,119,Phoenix Suns,PHO,113,6,Win,Win,1
+42,Sun Jan 6 2019,Indiana Pacers,IND,105,Toronto Raptors,TOR,121,-16,Loss,Loss,1
+43,Mon Jan 7 2019,Brooklyn Nets,BRK,95,Boston Celtics,BOS,116,-21,Loss,Loss,1
+44,Mon Jan 7 2019,Los Angeles Lakers,LAL,107,Dallas Mavericks,DAL,97,10,Win,Win,1
+45,Mon Jan 7 2019,San Antonio Spurs,SAS,119,Detroit Pistons,DET,107,12,Win,Win,1
+46,Mon Jan 7 2019,Denver Nuggets,DEN,113,Houston Rockets,HOU,125,-12,Loss,Loss,1
+47,Mon Jan 7 2019,Utah Jazz,UTA,102,Milwaukee Bucks,MIL,114,-12,Loss,Loss,1
+48,Mon Jan 7 2019,Memphis Grizzlies,MEM,95,New Orleans Pelicans,NOP,114,-19,Loss,Loss,1
+49,Mon Jan 7 2019,New York Knicks,NYK,101,Portland Trail Blazers,POR,111,-10,Loss,Loss,1
+50,Mon Jan 7 2019,Orlando Magic,ORL,95,Sacramento Kings,SAC,111,-16,Loss,Loss,1
+51,Tue Jan 8 2019,Indiana Pacers,IND,123,Cleveland Cavaliers,CLE,115,8,Win,Win,1
+52,Tue Jan 8 2019,New York Knicks,NYK,95,Golden State Warriors,GSW,122,-27,Loss,Loss,1
+53,Tue Jan 8 2019,Charlotte Hornets,CHO,109,Los Angeles Clippers,LAC,128,-19,Loss,Loss,1
+54,Tue Jan 8 2019,Denver Nuggets,DEN,103,Miami Heat,MIA,99,4,Win,Win,1
+55,Tue Jan 8 2019,Minnesota Timberwolves,MIN,119,Oklahoma City Thunder,OKC,117,2,Win,Loss,0
+56,Tue Jan 8 2019,Washington Wizards,WAS,115,Philadelphia 76ers,PHI,132,-17,Loss,Loss,1
+57,Tue Jan 8 2019,Sacramento Kings,SAC,111,Phoenix Suns,PHO,115,-4,Loss,Win,0
+58,Tue Jan 8 2019,Atlanta Hawks,ATL,101,Toronto Raptors,TOR,104,-3,Loss,Loss,1
+59,Wed Jan 9 2019,Indiana Pacers,IND,108,Boston Celtics,BOS,135,-27,Loss,Loss,1
+60,Wed Jan 9 2019,Atlanta Hawks,ATL,100,Brooklyn Nets,BRK,116,-16,Loss,Loss,1
+61,Wed Jan 9 2019,Phoenix Suns,PHO,94,Dallas Mavericks,DAL,104,-10,Loss,Loss,1
+62,Wed Jan 9 2019,Milwaukee Bucks,MIL,116,Houston Rockets,HOU,109,7,Win,Win,1
+63,Wed Jan 9 2019,Detroit Pistons,DET,100,Los Angeles Lakers,LAL,113,-13,Loss,Loss,1
+64,Wed Jan 9 2019,San Antonio Spurs,SAS,86,Memphis Grizzlies,MEM,96,-10,Loss,Win,0
+65,Wed Jan 9 2019,Cleveland Cavaliers,CLE,124,New Orleans Pelicans,NOP,140,-16,Loss,Loss,1
+66,Wed Jan 9 2019,Chicago Bulls,CHI,112,Portland Trail Blazers,POR,124,-12,Loss,Loss,1
+67,Wed Jan 9 2019,Orlando Magic,ORL,93,Utah Jazz,UTA,106,-13,Loss,Loss,1
+68,Wed Jan 9 2019,Philadelphia 76ers,PHI,106,Washington Wizards,WAS,123,-17,Loss,Win,0
+69,Thu Jan 10 2019,Los Angeles Clippers,LAC,100,Denver Nuggets,DEN,121,-21,Loss,Loss,1
+70,Thu Jan 10 2019,Boston Celtics,BOS,99,Miami Heat,MIA,115,-16,Loss,Win,0
+71,Thu Jan 10 2019,Detroit Pistons,DET,102,Sacramento Kings,SAC,112,-10,Loss,Loss,1
+72,Thu Jan 10 2019,Oklahoma City Thunder,OKC,147,San Antonio Spurs,SAS,154,-7,Loss,Win,0
+73,Fri Jan 11 2019,Chicago Bulls,CHI,109,Golden State Warriors,GSW,146,-37,Loss,Loss,1
+74,Fri Jan 11 2019,Cleveland Cavaliers,CLE,113,Houston Rockets,HOU,141,-28,Loss,Loss,1
+75,Fri Jan 11 2019,Dallas Mavericks,DAL,119,Minnesota Timberwolves,MIN,115,4,Win,Loss,0
+76,Fri Jan 11 2019,Indiana Pacers,IND,121,New York Knicks,NYK,106,15,Win,Win,1
+77,Fri Jan 11 2019,Atlanta Hawks,ATL,123,Philadelphia 76ers,PHI,121,2,Win,Loss,0
+78,Fri Jan 11 2019,Charlotte Hornets,CHO,96,Portland Trail Blazers,POR,127,-31,Loss,Loss,1
+79,Fri Jan 11 2019,Brooklyn Nets,BRK,105,Toronto Raptors,TOR,122,-17,Loss,Loss,1
+80,Fri Jan 11 2019,Los Angeles Lakers,LAL,95,Utah Jazz,UTA,113,-18,Loss,Loss,1
+81,Fri Jan 11 2019,Milwaukee Bucks,MIL,106,Washington Wizards,WAS,113,-7,Loss,Win,0
+82,Sat Jan 12 2019,Detroit Pistons,DET,109,Los Angeles Clippers,LAC,104,5,Win,Loss,0
+83,Sat Jan 12 2019,Memphis Grizzlies,MEM,108,Miami Heat,MIA,112,-4,Loss,Loss,1
+84,Sat Jan 12 2019,New Orleans Pelicans,NOP,106,Minnesota Timberwolves,MIN,110,-4,Loss,Win,0
+85,Sat Jan 12 2019,San Antonio Spurs,SAS,112,Oklahoma City Thunder,OKC,122,-10,Loss,Loss,1
+86,Sat Jan 12 2019,Boston Celtics,BOS,103,Orlando Magic,ORL,105,-2,Loss,Win,0
+87,Sat Jan 12 2019,Denver Nuggets,DEN,93,Phoenix Suns,PHO,102,-9,Loss,Win,0
+88,Sat Jan 12 2019,Charlotte Hornets,CHO,97,Sacramento Kings,SAC,104,-7,Loss,Loss,1
+89,Sat Jan 12 2019,Chicago Bulls,CHI,102,Utah Jazz,UTA,110,-8,Loss,Loss,1
+90,Sun Jan 13 2019,Milwaukee Bucks,MIL,133,Atlanta Hawks,ATL,114,19,Win,Win,1
+91,Sun Jan 13 2019,Golden State Warriors,GSW,119,Dallas Mavericks,DAL,114,5,Win,Win,1
+92,Sun Jan 13 2019,Portland Trail Blazers,POR,113,Denver Nuggets,DEN,116,-3,Loss,Loss,1
+93,Sun Jan 13 2019,Cleveland Cavaliers,CLE,101,Los Angeles Lakers,LAL,95,6,Win,Loss,0
+94,Sun Jan 13 2019,Philadelphia 76ers,PHI,108,New York Knicks,NYK,105,3,Win,Win,1
+95,Sun Jan 13 2019,Houston Rockets,HOU,109,Orlando Magic,ORL,116,-7,Loss,Win,0
+96,Sun Jan 13 2019,Toronto Raptors,TOR,140,Washington Wizards,WAS,138,2,Win,Win,1
+97,Mon Jan 14 2019,Boston Celtics,BOS,102,Brooklyn Nets,BRK,109,-7,Loss,Win,0
+98,Mon Jan 14 2019,Memphis Grizzlies,MEM,94,Houston Rockets,HOU,112,-18,Loss,Loss,1
+99,Mon Jan 14 2019,New Orleans Pelicans,NOP,121,Los Angeles Clippers,LAC,117,4,Win,Win,1
+100,Mon Jan 14 2019,Portland Trail Blazers,POR,107,Sacramento Kings,SAC,115,-8,Loss,Loss,1
+101,Mon Jan 14 2019,Charlotte Hornets,CHO,108,San Antonio Spurs,SAS,93,15,Win,Loss,0
+102,Mon Jan 14 2019,Detroit Pistons,DET,94,Utah Jazz,UTA,100,-6,Loss,Loss,1
+103,Tue Jan 15 2019,Oklahoma City Thunder,OKC,126,Atlanta Hawks,ATL,142,-16,Loss,Win,0
+104,Tue Jan 15 2019,Golden State Warriors,GSW,142,Denver Nuggets,DEN,111,31,Win,Win,1
+105,Tue Jan 15 2019,Phoenix Suns,PHO,97,Indiana Pacers,IND,131,-34,Loss,Loss,1
+106,Tue Jan 15 2019,Chicago Bulls,CHI,100,Los Angeles Lakers,LAL,107,-7,Loss,Loss,1
+107,Tue Jan 15 2019,Miami Heat,MIA,86,Milwaukee Bucks,MIL,124,-38,Loss,Loss,1
+108,Tue Jan 15 2019,Minnesota Timberwolves,MIN,107,Philadelphia 76ers,PHI,149,-42,Loss,Loss,1
+109,Wed Jan 16 2019,Toronto Raptors,TOR,108,Boston Celtics,BOS,117,-9,Loss,Loss,1
+110,Wed Jan 16 2019,San Antonio Spurs,SAS,105,Dallas Mavericks,DAL,101,4,Win,Win,1
+111,Wed Jan 16 2019,Orlando Magic,ORL,115,Detroit Pistons,DET,120,-5,Loss,Loss,1
+112,Wed Jan 16 2019,New Orleans Pelicans,NOP,140,Golden State Warriors,GSW,147,-7,Loss,Loss,1
+113,Wed Jan 16 2019,Brooklyn Nets,BRK,145,Houston Rockets,HOU,142,3,Win,Loss,0
+114,Wed Jan 16 2019,Utah Jazz,UTA,129,Los Angeles Clippers,LAC,109,20,Win,Win,1
+115,Wed Jan 16 2019,Milwaukee Bucks,MIL,111,Memphis Grizzlies,MEM,101,10,Win,Win,1
+116,Wed Jan 16 2019,Cleveland Cavaliers,CLE,112,Portland Trail Blazers,POR,129,-17,Loss,Loss,1
+117,Thu Jan 17 2019,Sacramento Kings,SAC,95,Charlotte Hornets,CHO,114,-19,Loss,Win,0
+118,Thu Jan 17 2019,Chicago Bulls,CHI,105,Denver Nuggets,DEN,135,-30,Loss,Loss,1
+119,Thu Jan 17 2019,Philadelphia 76ers,PHI,120,Indiana Pacers,IND,96,24,Win,Loss,0
+120,Thu Jan 17 2019,Los Angeles Lakers,LAL,138,Oklahoma City Thunder,OKC,128,10,Win,Loss,0
+121,Thu Jan 17 2019,Phoenix Suns,PHO,109,Toronto Raptors,TOR,111,-2,Loss,Loss,1
+122,Thu Jan 17 2019,New York Knicks,NYK,100,Washington Wizards,WAS,101,-1,Loss,Loss,1
+123,Fri Jan 18 2019,Memphis Grizzlies,MEM,116,Boston Celtics,BOS,122,-6,Loss,Loss,1
+124,Fri Jan 18 2019,Miami Heat,MIA,93,Detroit Pistons,DET,98,-5,Win,Loss,0
+125,Fri Jan 18 2019,Golden State Warriors,GSW,112,Los Angeles Clippers,LAC,94,18,Win,Win,1
+126,Fri Jan 18 2019,San Antonio Spurs,SAS,116,Minnesota Timberwolves,MIN,113,3,Win,Win,1
+127,Fri Jan 18 2019,Brooklyn Nets,BRK,117,Orlando Magic,ORL,115,2,Win,Win,1
+128,Fri Jan 18 2019,New Orleans Pelicans,NOP,112,Portland Trail Blazers,POR,128,-16,Loss,Loss,1
+129,Fri Jan 18 2019,Cleveland Cavaliers,CLE,99,Utah Jazz,UTA,115,-16,Loss,Loss,1
+130,Sat Jan 19 2019,Boston Celtics,BOS,113,Atlanta Hawks,ATL,105,8,Win,Win,1
+131,Sat Jan 19 2019,Miami Heat,MIA,117,Chicago Bulls,CHI,103,14,Win,Win,1
+132,Sat Jan 19 2019,Phoenix Suns,PHO,115,Charlotte Hornets,CHO,135,-20,Loss,Loss,1
+133,Sat Jan 19 2019,Cleveland Cavaliers,CLE,102,Denver Nuggets,DEN,124,-22,Loss,Loss,1
+134,Sat Jan 19 2019,Sacramento Kings,SAC,103,Detroit Pistons,DET,101,2,Win,Win,1
+135,Sat Jan 19 2019,Los Angeles Lakers,LAL,134,Houston Rockets,HOU,138,-4,Loss,Loss,1
+136,Sat Jan 19 2019,Dallas Mavericks,DAL,99,Indiana Pacers,IND,111,-12,Loss,Loss,1
+137,Sat Jan 19 2019,Milwaukee Bucks,MIL,118,Orlando Magic,ORL,108,10,Win,Win,1
+138,Sat Jan 19 2019,Oklahoma City Thunder,OKC,117,Philadelphia 76ers,PHI,115,2,Win,Win,1
+139,Sat Jan 19 2019,Memphis Grizzlies,MEM,90,Toronto Raptors,TOR,119,-29,Loss,Loss,1
+140,Sun Jan 20 2019,Charlotte Hornets,CHO,95,Indiana Pacers,IND,120,-25,Loss,Loss,1
+141,Sun Jan 20 2019,Phoenix Suns,PHO,114,Minnesota Timberwolves,MIN,116,-2,Loss,Loss,1
+142,Sun Jan 20 2019,Los Angeles Clippers,LAC,103,San Antonio Spurs,SAS,95,8,Win,Loss,0
+143,Mon Jan 21 2019,Orlando Magic,ORL,122,Atlanta Hawks,ATL,103,19,Win,Win,1
+144,Mon Jan 21 2019,Miami Heat,MIA,99,Boston Celtics,BOS,107,-8,Loss,Loss,1
+145,Mon Jan 21 2019,Sacramento Kings,SAC,94,Brooklyn Nets,BRK,123,-29,Loss,Win,0
+146,Mon Jan 21 2019,Chicago Bulls,CHI,104,Cleveland Cavaliers,CLE,88,16,Win,Loss,0
+147,Mon Jan 21 2019,Golden State Warriors,GSW,130,Los Angeles Lakers,LAL,111,19,Win,Win,1
+148,Mon Jan 21 2019,New Orleans Pelicans,NOP,105,Memphis Grizzlies,MEM,85,20,Win,Win,1
+149,Mon Jan 21 2019,Dallas Mavericks,DAL,106,Milwaukee Bucks,MIL,116,-10,Loss,Loss,1
+150,Mon Jan 21 2019,Oklahoma City Thunder,OKC,127,New York Knicks,NYK,109,18,Win,Win,1
+151,Mon Jan 21 2019,Houston Rockets,HOU,93,Philadelphia 76ers,PHI,121,-28,Loss,Loss,1
+152,Mon Jan 21 2019,Portland Trail Blazers,POR,109,Utah Jazz,UTA,104,5,Win,Loss,0
+153,Mon Jan 21 2019,Detroit Pistons,DET,87,Washington Wizards,WAS,101,-14,Loss,Loss,1
+154,Tue Jan 22 2019,Los Angeles Clippers,LAC,98,Dallas Mavericks,DAL,106,-8,Loss,Loss,1
+155,Tue Jan 22 2019,Portland Trail Blazers,POR,114,Oklahoma City Thunder,OKC,123,-9,Loss,Loss,1
+156,Tue Jan 22 2019,Minnesota Timberwolves,MIN,118,Phoenix Suns,PHO,91,27,Win,Win,1
+157,Tue Jan 22 2019,Sacramento Kings,SAC,105,Toronto Raptors,TOR,120,-15,Loss,Loss,1
+158,Wed Jan 23 2019,Cleveland Cavaliers,CLE,103,Boston Celtics,BOS,123,-20,Loss,Loss,1
+159,Wed Jan 23 2019,Orlando Magic,ORL,110,Brooklyn Nets,BRK,114,-4,Loss,Loss,1
+160,Wed Jan 23 2019,Atlanta Hawks,ATL,121,Chicago Bulls,CHI,101,20,Win,Win,1
+161,Wed Jan 23 2019,Toronto Raptors,TOR,106,Indiana Pacers,IND,110,-4,Loss,Loss,1
+162,Wed Jan 23 2019,Charlotte Hornets,CHO,118,Memphis Grizzlies,MEM,107,11,Win,Win,1
+163,Wed Jan 23 2019,Los Angeles Clippers,LAC,111,Miami Heat,MIA,99,12,Win,Loss,0
+164,Wed Jan 23 2019,Detroit Pistons,DET,98,New Orleans Pelicans,NOP,94,4,Win,Loss,0
+165,Wed Jan 23 2019,Houston Rockets,HOU,114,New York Knicks,NYK,110,4,Win,Win,1
+166,Wed Jan 23 2019,San Antonio Spurs,SAS,120,Philadelphia 76ers,PHI,122,-2,Loss,Loss,1
+167,Wed Jan 23 2019,Denver Nuggets,DEN,108,Utah Jazz,UTA,114,-6,Loss,Loss,1
+168,Thu Jan 24 2019,Minnesota Timberwolves,MIN,120,Los Angeles Lakers,LAL,105,15,Win,Loss,0
+169,Thu Jan 24 2019,New Orleans Pelicans,NOP,116,Oklahoma City Thunder,OKC,122,-6,Loss,Loss,1
+170,Thu Jan 24 2019,Portland Trail Blazers,POR,120,Phoenix Suns,PHO,106,14,Win,Win,1
+171,Thu Jan 24 2019,Golden State Warriors,GSW,126,Washington Wizards,WAS,118,8,Win,Win,1
+172,Fri Jan 25 2019,New York Knicks,NYK,99,Brooklyn Nets,BRK,109,-10,Loss,Loss,1
+173,Fri Jan 25 2019,Los Angeles Clippers,LAC,106,Chicago Bulls,CHI,101,5,Win,Win,1
+174,Fri Jan 25 2019,Miami Heat,MIA,100,Cleveland Cavaliers,CLE,94,6,Win,Win,1
+175,Fri Jan 25 2019,Detroit Pistons,DET,101,Dallas Mavericks,DAL,106,-5,Loss,Loss,1
+176,Fri Jan 25 2019,Phoenix Suns,PHO,95,Denver Nuggets,DEN,132,-37,Loss,Loss,1
+177,Fri Jan 25 2019,Toronto Raptors,TOR,119,Houston Rockets,HOU,121,-2,Loss,Win,0
+178,Fri Jan 25 2019,Sacramento Kings,SAC,99,Memphis Grizzlies,MEM,96,3,Win,Win,1
+179,Fri Jan 25 2019,Charlotte Hornets,CHO,99,Milwaukee Bucks,MIL,108,-9,Loss,Loss,1
+180,Fri Jan 25 2019,Washington Wizards,WAS,95,Orlando Magic,ORL,91,4,Win,Win,1
+181,Fri Jan 25 2019,Minnesota Timberwolves,MIN,102,Utah Jazz,UTA,106,-4,Loss,Loss,1
+182,Sat Jan 26 2019,Golden State Warriors,GSW,115,Boston Celtics,BOS,111,4,Win,Loss,0
+183,Sat Jan 26 2019,Philadelphia 76ers,PHI,110,Denver Nuggets,DEN,126,-16,Loss,Loss,1
+184,Sat Jan 26 2019,Indiana Pacers,IND,103,Memphis Grizzlies,MEM,106,-3,Loss,Win,0
+185,Sat Jan 26 2019,San Antonio Spurs,SAS,126,New Orleans Pelicans,NOP,114,12,Win,Win,1
+186,Sat Jan 26 2019,Atlanta Hawks,ATL,111,Portland Trail Blazers,POR,120,-9,Loss,Loss,1
+187,Sun Jan 27 2019,Cleveland Cavaliers,CLE,104,Chicago Bulls,CHI,101,3,Win,Loss,0
+188,Sun Jan 27 2019,Toronto Raptors,TOR,123,Dallas Mavericks,DAL,120,3,Win,Win,1
+189,Sun Jan 27 2019,Orlando Magic,ORL,98,Houston Rockets,HOU,103,-5,Loss,Loss,1
+190,Sun Jan 27 2019,Sacramento Kings,SAC,108,Los Angeles Clippers,LAC,122,-14,Loss,Loss,1
+191,Sun Jan 27 2019,Phoenix Suns,PHO,102,Los Angeles Lakers,LAL,116,-14,Loss,Loss,1
+192,Sun Jan 27 2019,Utah Jazz,UTA,125,Minnesota Timberwolves,MIN,111,14,Win,Win,1
+193,Sun Jan 27 2019,Miami Heat,MIA,106,New York Knicks,NYK,97,9,Win,Win,1
+194,Sun Jan 27 2019,Milwaukee Bucks,MIL,112,Oklahoma City Thunder,OKC,118,-6,Loss,Win,0
+195,Sun Jan 27 2019,Washington Wizards,WAS,119,San Antonio Spurs,SAS,132,-13,Loss,Loss,1
+196,Mon Jan 28 2019,Brooklyn Nets,BRK,104,Boston Celtics,BOS,112,-8,Loss,Loss,1
+197,Mon Jan 28 2019,New York Knicks,NYK,92,Charlotte Hornets,CHO,101,-9,Loss,Loss,1
+198,Mon Jan 28 2019,Golden State Warriors,GSW,132,Indiana Pacers,IND,100,32,Win,Win,1
+199,Mon Jan 28 2019,Atlanta Hawks,ATL,123,Los Angeles Clippers,LAC,118,5,Win,Loss,0
+200,Mon Jan 28 2019,Denver Nuggets,DEN,95,Memphis Grizzlies,MEM,92,3,Win,Win,1
+201,Tue Jan 29 2019,Chicago Bulls,CHI,117,Brooklyn Nets,BRK,122,-5,Loss,Loss,1
+202,Tue Jan 29 2019,Washington Wizards,WAS,113,Cleveland Cavaliers,CLE,116,-3,Loss,Win,0
+203,Tue Jan 29 2019,Milwaukee Bucks,MIL,115,Detroit Pistons,DET,105,10,Win,Win,1
+204,Tue Jan 29 2019,New Orleans Pelicans,NOP,121,Houston Rockets,HOU,116,5,Win,Loss,0
+205,Tue Jan 29 2019,Philadelphia 76ers,PHI,121,Los Angeles Lakers,LAL,105,16,Win,Win,1
+206,Tue Jan 29 2019,Oklahoma City Thunder,OKC,126,Orlando Magic,ORL,117,9,Win,Win,1
+207,Tue Jan 29 2019,Phoenix Suns,PHO,124,San Antonio Spurs,SAS,126,-2,Loss,Loss,1
+208,Wed Jan 30 2019,Charlotte Hornets,CHO,94,Boston Celtics,BOS,126,-32,Loss,Loss,1
+209,Wed Jan 30 2019,Chicago Bulls,CHI,105,Miami Heat,MIA,89,16,Win,Loss,0
+210,Wed Jan 30 2019,Memphis Grizzlies,MEM,97,Minnesota Timberwolves,MIN,99,-2,Loss,Loss,1
+211,Wed Jan 30 2019,Denver Nuggets,DEN,105,New Orleans Pelicans,NOP,99,6,Win,Win,1
+212,Wed Jan 30 2019,Dallas Mavericks,DAL,114,New York Knicks,NYK,90,24,Win,Win,1
+213,Wed Jan 30 2019,Utah Jazz,UTA,105,Portland Trail Blazers,POR,132,-27,Loss,Win,0
+214,Wed Jan 30 2019,Atlanta Hawks,ATL,113,Sacramento Kings,SAC,135,-22,Loss,Loss,1
+215,Wed Jan 30 2019,Indiana Pacers,IND,89,Washington Wizards,WAS,107,-18,Loss,Win,0
+216,Thu Jan 31 2019,Dallas Mavericks,DAL,89,Detroit Pistons,DET,93,-4,Loss,Win,0
+217,Thu Jan 31 2019,Philadelphia 76ers,PHI,113,Golden State Warriors,GSW,104,9,Win,Loss,0
+218,Thu Jan 31 2019,Los Angeles Lakers,LAL,123,Los Angeles Clippers,LAC,120,3,Win,Win,1
+219,Thu Jan 31 2019,Indiana Pacers,IND,100,Orlando Magic,ORL,107,-7,Loss,Win,0
+220,Thu Jan 31 2019,Brooklyn Nets,BRK,114,San Antonio Spurs,SAS,117,-3,Loss,Loss,1
+221,Thu Jan 31 2019,Milwaukee Bucks,MIL,105,Toronto Raptors,TOR,92,13,Win,Win,1
+222,Fri Feb 1 2019,Memphis Grizzlies,MEM,92,Charlotte Hornets,CHO,100,-8,Loss,Loss,1
+223,Fri Feb 1 2019,Houston Rockets,HOU,122,Denver Nuggets,DEN,136,-14,Loss,Loss,1
+224,Fri Feb 1 2019,Oklahoma City Thunder,OKC,118,Miami Heat,MIA,102,16,Win,Win,1
+225,Fri Feb 1 2019,Boston Celtics,BOS,113,New York Knicks,NYK,99,14,Win,Win,1
+226,Fri Feb 1 2019,Atlanta Hawks,ATL,112,Utah Jazz,UTA,128,-16,Loss,Loss,1
+227,Sat Feb 2 2019,Chicago Bulls,CHI,118,Charlotte Hornets,CHO,125,-7,Loss,Loss,1
+228,Sat Feb 2 2019,Dallas Mavericks,DAL,111,Cleveland Cavaliers,CLE,98,13,Win,Win,1
+229,Sat Feb 2 2019,Los Angeles Clippers,LAC,111,Detroit Pistons,DET,101,10,Win,Win,1
+230,Sat Feb 2 2019,Los Angeles Lakers,LAL,101,Golden State Warriors,GSW,115,-14,Loss,Loss,1
+231,Sat Feb 2 2019,Indiana Pacers,IND,95,Miami Heat,MIA,88,7,Win,Win,1
+232,Sat Feb 2 2019,Denver Nuggets,DEN,107,Minnesota Timberwolves,MIN,106,1,Win,Win,1
+233,Sat Feb 2 2019,Brooklyn Nets,BRK,89,Orlando Magic,ORL,102,-13,Loss,Win,0
+234,Sat Feb 2 2019,Atlanta Hawks,ATL,118,Phoenix Suns,PHO,112,6,Win,Win,1
+235,Sat Feb 2 2019,Philadelphia 76ers,PHI,108,Sacramento Kings,SAC,115,-7,Loss,Win,0
+236,Sat Feb 2 2019,New Orleans Pelicans,NOP,108,San Antonio Spurs,SAS,113,-5,Loss,Loss,1
+237,Sat Feb 2 2019,Houston Rockets,HOU,125,Utah Jazz,UTA,98,27,Win,Loss,0
+238,Sat Feb 2 2019,Milwaukee Bucks,MIL,131,Washington Wizards,WAS,115,16,Win,Win,1
+239,Sun Feb 3 2019,Oklahoma City Thunder,OKC,129,Boston Celtics,BOS,134,-5,Loss,Loss,1
+240,Sun Feb 3 2019,Memphis Grizzlies,MEM,96,New York Knicks,NYK,84,12,Win,Win,1
+241,Sun Feb 3 2019,Los Angeles Clippers,LAC,103,Toronto Raptors,TOR,121,-18,Loss,Loss,1
+242,Mon Feb 4 2019,Milwaukee Bucks,MIL,113,Brooklyn Nets,BRK,94,19,Win,Win,1
+243,Mon Feb 4 2019,Denver Nuggets,DEN,103,Detroit Pistons,DET,129,-26,Loss,Win,0
+244,Mon Feb 4 2019,Indiana Pacers,IND,109,New Orleans Pelicans,NOP,107,2,Win,Win,1
+245,Mon Feb 4 2019,Houston Rockets,HOU,118,Phoenix Suns,PHO,110,8,Win,Win,1
+246,Mon Feb 4 2019,San Antonio Spurs,SAS,112,Sacramento Kings,SAC,127,-15,Loss,Win,0
+247,Mon Feb 4 2019,Atlanta Hawks,ATL,137,Washington Wizards,WAS,129,8,Win,Loss,0
+248,Tue Feb 5 2019,Los Angeles Clippers,LAC,117,Charlotte Hornets,CHO,115,2,Win,Loss,0
+249,Tue Feb 5 2019,Boston Celtics,BOS,103,Cleveland Cavaliers,CLE,96,7,Win,Win,1
+250,Tue Feb 5 2019,Los Angeles Lakers,LAL,94,Indiana Pacers,IND,136,-42,Loss,Loss,1
+251,Tue Feb 5 2019,Minnesota Timberwolves,MIN,106,Memphis Grizzlies,MEM,108,-2,Loss,Win,0
+252,Tue Feb 5 2019,Detroit Pistons,DET,105,New York Knicks,NYK,92,13,Win,Win,1
+253,Tue Feb 5 2019,Orlando Magic,ORL,122,Oklahoma City Thunder,OKC,132,-10,Loss,Loss,1
+254,Tue Feb 5 2019,Toronto Raptors,TOR,119,Philadelphia 76ers,PHI,107,12,Win,Win,1
+255,Tue Feb 5 2019,Miami Heat,MIA,118,Portland Trail Blazers,POR,108,10,Win,Loss,0
+256,Wed Feb 6 2019,Denver Nuggets,DEN,130,Brooklyn Nets,BRK,135,-5,Loss,Win,0
+257,Wed Feb 6 2019,New Orleans Pelicans,NOP,125,Chicago Bulls,CHI,120,5,Win,Win,1
+258,Wed Feb 6 2019,Charlotte Hornets,CHO,93,Dallas Mavericks,DAL,99,-6,Loss,Loss,1
+259,Wed Feb 6 2019,San Antonio Spurs,SAS,102,Golden State Warriors,GSW,141,-39,Loss,Loss,1
+260,Wed Feb 6 2019,Washington Wizards,WAS,129,Milwaukee Bucks,MIL,148,-19,Loss,Loss,1
+261,Wed Feb 6 2019,Houston Rockets,HOU,127,Sacramento Kings,SAC,101,26,Win,Loss,0
+262,Wed Feb 6 2019,Phoenix Suns,PHO,88,Utah Jazz,UTA,116,-28,Loss,Loss,1
+263,Thu Feb 7 2019,Toronto Raptors,TOR,119,Atlanta Hawks,ATL,101,18,Win,Win,1
+264,Thu Feb 7 2019,Los Angeles Lakers,LAL,129,Boston Celtics,BOS,128,1,Win,Loss,0
+265,Thu Feb 7 2019,Los Angeles Clippers,LAC,92,Indiana Pacers,IND,116,-24,Loss,Loss,1
+266,Thu Feb 7 2019,Memphis Grizzlies,MEM,95,Oklahoma City Thunder,OKC,117,-22,Loss,Loss,1
+267,Thu Feb 7 2019,Minnesota Timberwolves,MIN,112,Orlando Magic,ORL,122,-10,Loss,Win,0
+268,Thu Feb 7 2019,San Antonio Spurs,SAS,118,Portland Trail Blazers,POR,127,-9,Loss,Loss,1
+269,Fri Feb 8 2019,Chicago Bulls,CHI,125,Brooklyn Nets,BRK,106,19,Win,Loss,0
+270,Fri Feb 8 2019,Milwaukee Bucks,MIL,122,Dallas Mavericks,DAL,107,15,Win,Win,1
+271,Fri Feb 8 2019,New York Knicks,NYK,103,Detroit Pistons,DET,120,-17,Loss,Loss,1
+272,Fri Feb 8 2019,Minnesota Timberwolves,MIN,117,New Orleans Pelicans,NOP,122,-5,Loss,Loss,1
+273,Fri Feb 8 2019,Denver Nuggets,DEN,110,Philadelphia 76ers,PHI,117,-7,Loss,Win,0
+274,Fri Feb 8 2019,Golden State Warriors,GSW,117,Phoenix Suns,PHO,107,10,Win,Win,1
+275,Fri Feb 8 2019,Miami Heat,MIA,96,Sacramento Kings,SAC,102,-6,Loss,Loss,1
+276,Fri Feb 8 2019,Cleveland Cavaliers,CLE,106,Washington Wizards,WAS,119,-13,Loss,Loss,1
+277,Sat Feb 9 2019,Charlotte Hornets,CHO,129,Atlanta Hawks,ATL,120,9,Win,Win,1
+278,Sat Feb 9 2019,Los Angeles Clippers,LAC,123,Boston Celtics,BOS,112,11,Win,Loss,0
+279,Sat Feb 9 2019,Washington Wizards,WAS,134,Chicago Bulls,CHI,125,9,Win,Win,1
+280,Sat Feb 9 2019,Oklahoma City Thunder,OKC,117,Houston Rockets,HOU,112,5,Win,Win,1
+281,Sat Feb 9 2019,Cleveland Cavaliers,CLE,90,Indiana Pacers,IND,105,-15,Loss,Loss,1
+282,Sat Feb 9 2019,New Orleans Pelicans,NOP,90,Memphis Grizzlies,MEM,99,-9,Loss,Win,0
+283,Sat Feb 9 2019,Orlando Magic,ORL,103,Milwaukee Bucks,MIL,83,20,Win,Loss,0
+284,Sat Feb 9 2019,Toronto Raptors,TOR,104,New York Knicks,NYK,99,5,Win,Win,1
+285,Sat Feb 9 2019,San Antonio Spurs,SAS,105,Utah Jazz,UTA,125,-20,Loss,Loss,1
+286,Sun Feb 10 2019,Orlando Magic,ORL,124,Atlanta Hawks,ATL,108,16,Win,Win,1
+287,Sun Feb 10 2019,Portland Trail Blazers,POR,101,Dallas Mavericks,DAL,102,-1,Loss,Win,0
+288,Sun Feb 10 2019,Miami Heat,MIA,118,Golden State Warriors,GSW,120,-2,Loss,Loss,1
+289,Sun Feb 10 2019,Los Angeles Lakers,LAL,120,Philadelphia 76ers,PHI,143,-23,Loss,Loss,1
+290,Sun Feb 10 2019,Phoenix Suns,PHO,104,Sacramento Kings,SAC,117,-13,Loss,Loss,1
+291,Mon Feb 11 2019,Milwaukee Bucks,MIL,112,Chicago Bulls,CHI,99,13,Win,Win,1
+292,Mon Feb 11 2019,New York Knicks,NYK,104,Cleveland Cavaliers,CLE,107,-3,Loss,Win,0
+293,Mon Feb 11 2019,Miami Heat,MIA,87,Denver Nuggets,DEN,103,-16,Loss,Loss,1
+294,Mon Feb 11 2019,Washington Wizards,WAS,112,Detroit Pistons,DET,121,-9,Loss,Loss,1
+295,Mon Feb 11 2019,Dallas Mavericks,DAL,104,Houston Rockets,HOU,120,-16,Loss,Loss,1
+296,Mon Feb 11 2019,Charlotte Hornets,CHO,90,Indiana Pacers,IND,99,-9,Loss,Loss,1
+297,Mon Feb 11 2019,Los Angeles Clippers,LAC,120,Minnesota Timberwolves,MIN,130,-10,Loss,Win,0
+298,Mon Feb 11 2019,Portland Trail Blazers,POR,111,Oklahoma City Thunder,OKC,120,-9,Loss,Loss,1
+299,Mon Feb 11 2019,Brooklyn Nets,BRK,125,Toronto Raptors,TOR,127,-2,Loss,Loss,1
+300,Tue Feb 12 2019,Los Angeles Lakers,LAL,113,Atlanta Hawks,ATL,117,-4,Loss,Win,0
+301,Tue Feb 12 2019,Utah Jazz,UTA,108,Golden State Warriors,GSW,115,-7,Loss,Loss,1
+302,Tue Feb 12 2019,San Antonio Spurs,SAS,108,Memphis Grizzlies,MEM,107,1,Win,Win,1
+303,Tue Feb 12 2019,Orlando Magic,ORL,118,New Orleans Pelicans,NOP,88,30,Win,Loss,0
+304,Tue Feb 12 2019,Boston Celtics,BOS,112,Philadelphia 76ers,PHI,109,3,Win,Win,1
+305,Wed Feb 13 2019,Detroit Pistons,DET,110,Boston Celtics,BOS,118,-8,Loss,Loss,1
+306,Wed Feb 13 2019,Memphis Grizzlies,MEM,110,Chicago Bulls,CHI,122,-12,Loss,Win,0
+307,Wed Feb 13 2019,Brooklyn Nets,BRK,148,Cleveland Cavaliers,CLE,139,9,Win,Win,1
+308,Wed Feb 13 2019,Miami Heat,MIA,112,Dallas Mavericks,DAL,101,11,Win,Loss,0
+309,Wed Feb 13 2019,Sacramento Kings,SAC,118,Denver Nuggets,DEN,120,-2,Loss,Loss,1
+310,Wed Feb 13 2019,Milwaukee Bucks,MIL,106,Indiana Pacers,IND,97,9,Win,Win,1
+311,Wed Feb 13 2019,Phoenix Suns,PHO,107,Los Angeles Clippers,LAC,134,-27,Loss,Loss,1
+312,Wed Feb 13 2019,Houston Rockets,HOU,111,Minnesota Timberwolves,MIN,121,-10,Loss,Win,0
+313,Wed Feb 13 2019,Philadelphia 76ers,PHI,126,New York Knicks,NYK,111,15,Win,Win,1
+314,Wed Feb 13 2019,Golden State Warriors,GSW,107,Portland Trail Blazers,POR,129,-22,Loss,Win,0
+315,Wed Feb 13 2019,Washington Wizards,WAS,120,Toronto Raptors,TOR,129,-9,Loss,Loss,1
+316,Thu Feb 14 2019,New York Knicks,NYK,106,Atlanta Hawks,ATL,91,15,Win,Loss,0
+317,Thu Feb 14 2019,Oklahoma City Thunder,OKC,122,New Orleans Pelicans,NOP,131,-9,Loss,Win,0
+318,Thu Feb 14 2019,Charlotte Hornets,CHO,89,Orlando Magic,ORL,127,-38,Loss,Win,0
+319,Thu Feb 21 2019,Portland Trail Blazers,POR,113,Brooklyn Nets,BRK,99,14,Win,Win,1
+320,Thu Feb 21 2019,Phoenix Suns,PHO,98,Cleveland Cavaliers,CLE,111,-13,Loss,Win,0
+321,Thu Feb 21 2019,Sacramento Kings,SAC,123,Golden State Warriors,GSW,125,-2,Loss,Loss,1
+322,Thu Feb 21 2019,Houston Rockets,HOU,106,Los Angeles Lakers,LAL,111,-5,Loss,Win,0
+323,Thu Feb 21 2019,Boston Celtics,BOS,97,Milwaukee Bucks,MIL,98,-1,Loss,Loss,1
+324,Thu Feb 21 2019,Miami Heat,MIA,102,Philadelphia 76ers,PHI,106,-4,Loss,Loss,1
+325,Fri Feb 22 2019,Detroit Pistons,DET,125,Atlanta Hawks,ATL,122,3,Win,Win,1
+326,Fri Feb 22 2019,Washington Wizards,WAS,110,Charlotte Hornets,CHO,123,-13,Loss,Loss,1
+327,Fri Feb 22 2019,Denver Nuggets,DEN,114,Dallas Mavericks,DAL,104,10,Win,Win,1
+328,Fri Feb 22 2019,New Orleans Pelicans,NOP,111,Indiana Pacers,IND,126,-15,Loss,Loss,1
+329,Fri Feb 22 2019,Los Angeles Clippers,LAC,112,Memphis Grizzlies,MEM,106,6,Win,Win,1
+330,Fri Feb 22 2019,Minnesota Timberwolves,MIN,115,New York Knicks,NYK,104,11,Win,Win,1
+331,Fri Feb 22 2019,Utah Jazz,UTA,147,Oklahoma City Thunder,OKC,148,-1,Loss,Loss,1
+332,Fri Feb 22 2019,Chicago Bulls,CHI,110,Orlando Magic,ORL,109,1,Win,Loss,0
+333,Fri Feb 22 2019,San Antonio Spurs,SAS,117,Toronto Raptors,TOR,120,-3,Loss,Loss,1
+334,Sat Feb 23 2019,Phoenix Suns,PHO,112,Atlanta Hawks,ATL,120,-8,Loss,Loss,1
+335,Sat Feb 23 2019,Boston Celtics,BOS,116,Chicago Bulls,CHI,126,-10,Loss,Win,0
+336,Sat Feb 23 2019,Brooklyn Nets,BRK,117,Charlotte Hornets,CHO,115,2,Win,Loss,0
+337,Sat Feb 23 2019,Memphis Grizzlies,MEM,107,Cleveland Cavaliers,CLE,112,-5,Loss,Win,0
+338,Sat Feb 23 2019,Houston Rockets,HOU,118,Golden State Warriors,GSW,112,6,Win,Loss,0
+339,Sat Feb 23 2019,Detroit Pistons,DET,119,Miami Heat,MIA,96,23,Win,Loss,0
+340,Sat Feb 23 2019,Minnesota Timberwolves,MIN,128,Milwaukee Bucks,MIL,140,-12,Loss,Loss,1
+341,Sat Feb 23 2019,Los Angeles Lakers,LAL,115,New Orleans Pelicans,NOP,128,-13,Loss,Loss,1
+342,Sat Feb 23 2019,Sacramento Kings,SAC,119,Oklahoma City Thunder,OKC,116,3,Win,Loss,0
+343,Sat Feb 23 2019,Portland Trail Blazers,POR,130,Philadelphia 76ers,PHI,115,15,Win,Loss,0
+344,Sat Feb 23 2019,Dallas Mavericks,DAL,109,Utah Jazz,UTA,125,-16,Loss,Loss,1
+345,Sat Feb 23 2019,Indiana Pacers,IND,119,Washington Wizards,WAS,112,7,Win,Win,1
+346,Sun Feb 24 2019,Los Angeles Clippers,LAC,96,Denver Nuggets,DEN,123,-27,Loss,Loss,1
+347,Sun Feb 24 2019,San Antonio Spurs,SAS,118,New York Knicks,NYK,130,-12,Loss,Win,0
+348,Sun Feb 24 2019,Orlando Magic,ORL,113,Toronto Raptors,TOR,98,15,Win,Loss,0
+349,Mon Feb 25 2019,San Antonio Spurs,SAS,85,Brooklyn Nets,BRK,101,-16,Loss,Win,0
+350,Mon Feb 25 2019,Milwaukee Bucks,MIL,117,Chicago Bulls,CHI,106,11,Win,Win,1
+351,Mon Feb 25 2019,Golden State Warriors,GSW,121,Charlotte Hornets,CHO,110,11,Win,Win,1
+352,Mon Feb 25 2019,Portland Trail Blazers,POR,123,Cleveland Cavaliers,CLE,110,13,Win,Win,1
+353,Mon Feb 25 2019,Indiana Pacers,IND,109,Detroit Pistons,DET,113,-4,Loss,Win,0
+354,Mon Feb 25 2019,Atlanta Hawks,ATL,111,Houston Rockets,HOU,119,-8,Loss,Loss,1
+355,Mon Feb 25 2019,Dallas Mavericks,DAL,112,Los Angeles Clippers,LAC,121,-9,Loss,Loss,1
+356,Mon Feb 25 2019,Los Angeles Lakers,LAL,105,Memphis Grizzlies,MEM,110,-5,Loss,Win,0
+357,Mon Feb 25 2019,Phoenix Suns,PHO,124,Miami Heat,MIA,121,3,Win,Loss,0
+358,Mon Feb 25 2019,Sacramento Kings,SAC,105,Minnesota Timberwolves,MIN,112,-7,Loss,Win,0
+359,Mon Feb 25 2019,Philadelphia 76ers,PHI,111,New Orleans Pelicans,NOP,110,1,Win,Win,1
+360,Tue Feb 26 2019,Oklahoma City Thunder,OKC,112,Denver Nuggets,DEN,121,-9,Loss,Win,0
+361,Tue Feb 26 2019,Orlando Magic,ORL,103,New York Knicks,NYK,108,-5,Loss,Win,0
+362,Tue Feb 26 2019,Boston Celtics,BOS,95,Toronto Raptors,TOR,118,-23,Loss,Loss,1
+363,Wed Feb 27 2019,Minnesota Timberwolves,MIN,123,Atlanta Hawks,ATL,131,-8,Loss,Win,0
+364,Wed Feb 27 2019,Portland Trail Blazers,POR,97,Boston Celtics,BOS,92,5,Win,Loss,0
+365,Wed Feb 27 2019,Washington Wizards,WAS,125,Brooklyn Nets,BRK,116,9,Win,Loss,0
+366,Wed Feb 27 2019,Houston Rockets,HOU,118,Charlotte Hornets,CHO,113,5,Win,Win,1
+367,Wed Feb 27 2019,Indiana Pacers,IND,101,Dallas Mavericks,DAL,110,-9,Loss,Win,0
+368,Wed Feb 27 2019,New Orleans Pelicans,NOP,119,Los Angeles Lakers,LAL,125,-6,Loss,Loss,1
+369,Wed Feb 27 2019,Chicago Bulls,CHI,109,Memphis Grizzlies,MEM,107,2,Win,Loss,0
+370,Wed Feb 27 2019,Golden State Warriors,GSW,125,Miami Heat,MIA,126,-1,Win,Loss,0
+371,Wed Feb 27 2019,Milwaukee Bucks,MIL,141,Sacramento Kings,SAC,140,1,Win,Win,1
+372,Wed Feb 27 2019,Detroit Pistons,DET,93,San Antonio Spurs,SAS,105,-12,Loss,Loss,1
+373,Wed Feb 27 2019,Los Angeles Clippers,LAC,105,Utah Jazz,UTA,111,-6,Loss,Loss,1
+374,Thu Feb 28 2019,Utah Jazz,UTA,111,Denver Nuggets,DEN,104,7,Win,Loss,0
+375,Thu Feb 28 2019,Miami Heat,MIA,118,Houston Rockets,HOU,121,-3,Loss,Loss,1
+376,Thu Feb 28 2019,Minnesota Timberwolves,MIN,115,Indiana Pacers,IND,122,-7,Loss,Loss,1
+377,Thu Feb 28 2019,Cleveland Cavaliers,CLE,125,New York Knicks,NYK,118,7,Win,Win,1
+378,Thu Feb 28 2019,Philadelphia 76ers,PHI,108,Oklahoma City Thunder,OKC,104,4,Win,Win,1
+379,Thu Feb 28 2019,Golden State Warriors,GSW,96,Orlando Magic,ORL,103,-7,Loss,Win,0
+380,Fri Mar 1 2019,Chicago Bulls,CHI,168,Atlanta Hawks,ATL,161,7,Win,Loss,0
+381,Fri Mar 1 2019,Washington Wizards,WAS,96,Boston Celtics,BOS,107,-11,Loss,Loss,1
+382,Fri Mar 1 2019,Charlotte Hornets,CHO,123,Brooklyn Nets,BRK,112,11,Win,Win,1
+383,Fri Mar 1 2019,Milwaukee Bucks,MIL,131,Los Angeles Lakers,LAL,120,11,Win,Win,1
+384,Fri Mar 1 2019,New Orleans Pelicans,NOP,130,Phoenix Suns,PHO,116,14,Win,Win,1
+385,Fri Mar 1 2019,Los Angeles Clippers,LAC,116,Sacramento Kings,SAC,109,7,Win,Loss,0
+386,Fri Mar 1 2019,Portland Trail Blazers,POR,117,Toronto Raptors,TOR,119,-2,Loss,Loss,1
+387,Sat Mar 2 2019,Detroit Pistons,DET,129,Cleveland Cavaliers,CLE,93,36,Win,Win,1
+388,Sat Mar 2 2019,Memphis Grizzlies,MEM,111,Dallas Mavericks,DAL,81,30,Win,Win,1
+389,Sat Mar 2 2019,New Orleans Pelicans,NOP,120,Denver Nuggets,DEN,112,8,Win,Loss,0
+390,Sat Mar 2 2019,Orlando Magic,ORL,117,Indiana Pacers,IND,112,5,Win,Loss,0
+391,Sat Mar 2 2019,Brooklyn Nets,BRK,88,Miami Heat,MIA,117,-29,Loss,Loss,1
+392,Sat Mar 2 2019,Golden State Warriors,GSW,120,Philadelphia 76ers,PHI,117,3,Win,Win,1
+393,Sat Mar 2 2019,Los Angeles Lakers,LAL,109,Phoenix Suns,PHO,118,-9,Win,Loss,0
+394,Sat Mar 2 2019,Oklahoma City Thunder,OKC,102,San Antonio Spurs,SAS,116,-14,Win,Loss,0
+395,Sat Mar 2 2019,Milwaukee Bucks,MIL,111,Utah Jazz,UTA,115,-4,Win,Loss,0
+396,Sun Mar 3 2019,Houston Rockets,HOU,115,Boston Celtics,BOS,104,11,Win,Win,1
+397,Sun Mar 3 2019,Atlanta Hawks,ATL,123,Chicago Bulls,CHI,118,5,Win,Win,1
+398,Sun Mar 3 2019,Portland Trail Blazers,POR,118,Charlotte Hornets,CHO,108,10,Win,Win,1
+399,Sun Mar 3 2019,Orlando Magic,ORL,93,Cleveland Cavaliers,CLE,107,-14,Win,Loss,0
+400,Sun Mar 3 2019,Toronto Raptors,TOR,107,Detroit Pistons,DET,112,-5,Win,Loss,0
+401,Sun Mar 3 2019,New York Knicks,NYK,107,Los Angeles Clippers,LAC,128,-21,Loss,Loss,1
+402,Sun Mar 3 2019,Memphis Grizzlies,MEM,95,Oklahoma City Thunder,OKC,99,-4,Loss,Loss,1
+403,Sun Mar 3 2019,Minnesota Timberwolves,MIN,121,Washington Wizards,WAS,135,-14,Win,Loss,0
+404,Mon Mar 4 2019,Dallas Mavericks,DAL,88,Brooklyn Nets,BRK,127,-39,Loss,Loss,1
+405,Mon Mar 4 2019,Los Angeles Clippers,LAC,113,Los Angeles Lakers,LAL,105,8,Win,Win,1
+406,Mon Mar 4 2019,Atlanta Hawks,ATL,113,Miami Heat,MIA,114,-1,Loss,Loss,1
+407,Mon Mar 4 2019,Milwaukee Bucks,MIL,105,Phoenix Suns,PHO,114,-9,Win,Loss,0
+408,Mon Mar 4 2019,New York Knicks,NYK,108,Sacramento Kings,SAC,115,-7,Loss,Loss,1
+409,Mon Mar 4 2019,Denver Nuggets,DEN,103,San Antonio Spurs,SAS,104,-1,Loss,Loss,1
+410,Mon Mar 4 2019,New Orleans Pelicans,NOP,115,Utah Jazz,UTA,112,3,Win,Loss,0
+411,Tue Mar 5 2019,Boston Celtics,BOS,128,Golden State Warriors,GSW,95,33,Win,Loss,0
+412,Tue Mar 5 2019,Chicago Bulls,CHI,96,Indiana Pacers,IND,105,-9,Loss,Loss,1
+413,Tue Mar 5 2019,Portland Trail Blazers,POR,111,Memphis Grizzlies,MEM,120,-9,Loss,Win,0
+414,Tue Mar 5 2019,Oklahoma City Thunder,OKC,120,Minnesota Timberwolves,MIN,131,-11,Loss,Win,0
+415,Tue Mar 5 2019,Orlando Magic,ORL,106,Philadelphia 76ers,PHI,114,-8,Loss,Loss,1
+416,Tue Mar 5 2019,Houston Rockets,HOU,107,Toronto Raptors,TOR,95,12,Win,Win,1
+417,Wed Mar 6 2019,San Antonio Spurs,SAS,111,Atlanta Hawks,ATL,104,7,win,Win,1
+418,Wed Mar 6 2019,Cleveland Cavaliers,CLE,107,Brooklyn Nets,BRK,113,-6,Loss,Loss,1
+419,Wed Mar 6 2019,Philadelphia 76ers,PHI,107,Chicago Bulls,CHI,108,-1,Loss,Win,0
+420,Wed Mar 6 2019,Miami Heat,MIA,91,Charlotte Hornets,CHO,84,7,Win,Win,1
+421,Wed Mar 6 2019,Minnesota Timberwolves,MIN,114,Detroit Pistons,DET,131,-17,Loss,Loss,1
+422,Wed Mar 6 2019,Denver Nuggets,DEN,115,Los Angeles Lakers,LAL,99,16,Win,Win,1
+423,Wed Mar 6 2019,Utah Jazz,UTA,114,New Orleans Pelicans,NOP,104,10,Win,Win,1
+424,Wed Mar 6 2019,New York Knicks,NYK,96,Phoenix Suns,PHO,107,-11,Loss,Loss,1
+425,Wed Mar 6 2019,Boston Celtics,BOS,111,Sacramento Kings,SAC,109,2,Win,Win,1
+426,Wed Mar 6 2019,Dallas Mavericks,DAL,123,Washington Wizards,WAS,132,-9,Loss,Loss,1
+427,Thu Mar 7 2019,Indiana Pacers,IND,98,Milwaukee Bucks,MIL,117,-19,Loss,Loss,1
+428,Thu Mar 7 2019,Oklahoma City Thunder,OKC,129,Portland Trail Blazers,POR,121,8,Win,Win,1
+429,Fri Mar 8 2019,Detroit Pistons,DET,112,Chicago Bulls,CHI,104,8,Win,Win,1
+430,Fri Mar 8 2019,Washington Wizards,WAS,111,Charlotte Hornets,CHO,112,-1,Loss,Loss,1
+431,Fri Mar 8 2019,Denver Nuggets,DEN,105,Golden State Warriors,GSW,122,-17,Loss,Loss,1
+432,Fri Mar 8 2019,Philadelphia 76ers,PHI,91,Houston Rockets,HOU,107,-16,Loss,Loss,1
+433,Fri Mar 8 2019,Oklahoma City Thunder,OKC,110,Los Angeles Clippers,LAC,118,-8,Loss,Win,0
+434,Fri Mar 8 2019,Utah Jazz,UTA,104,Memphis Grizzlies,MEM,114,-10,Loss,Win,0
+435,Fri Mar 8 2019,Cleveland Cavaliers,CLE,110,Miami Heat,MIA,126,-16,Loss,Loss,1
+436,Fri Mar 8 2019,Toronto Raptors,TOR,127,New Orleans Pelicans,NOP,104,23,Win,Win,1
+437,Fri Mar 8 2019,Dallas Mavericks,DAL,106,Orlando Magic,ORL,111,-5,Loss,Loss,1
+438,Sat Mar 9 2019,Brooklyn Nets,BRK,114,Atlanta Hawks,ATL,112,2,Win,Win,1
+439,Sat Mar 9 2019,Boston Celtics,BOS,120,Los Angeles Lakers,LAL,107,13,Win,Win,1
+440,Sat Mar 9 2019,Charlotte Hornets,CHO,114,Milwaukee Bucks,MIL,131,-17,Loss,Loss,1
+441,Sat Mar 9 2019,Washington Wizards,WAS,130,Minnesota Timberwolves,MIN,135,-5,Loss,Loss,1
+442,Sat Mar 9 2019,Sacramento Kings,SAC,102,New York Knicks,NYK,94,8,Win,Win,1
+443,Sat Mar 9 2019,Phoenix Suns,PHO,120,Portland Trail Blazers,POR,127,-7,Loss,Loss,1
+444,Sun Mar 10 2019,New Orleans Pelicans,NOP,116,Atlanta Hawks,ATL,128,-12,Loss,Win,0
+445,Sun Mar 10 2019,Houston Rockets,HOU,94,Dallas Mavericks,DAL,93,1,Win,Win,1
+446,Sun Mar 10 2019,Chicago Bulls,CHI,108,Detroit Pistons,DET,131,-23,Loss,Loss,1
+447,Sun Mar 10 2019,Phoenix Suns,PHO,115,Golden State Warriors,GSW,111,4,Win,Loss,0
+448,Sun Mar 10 2019,Orlando Magic,ORL,97,Memphis Grizzlies,MEM,105,-8,Loss,Loss,1
+449,Sun Mar 10 2019,Toronto Raptors,TOR,125,Miami Heat,MIA,104,21,Win,Win,1
+450,Sun Mar 10 2019,New York Knicks,NYK,92,Minnesota Timberwolves,MIN,103,-11,Loss,Loss,1
+451,Sun Mar 10 2019,Indiana Pacers,IND,89,Philadelphia 76ers,PHI,106,-15,Loss,Win,0
+452,Sun Mar 10 2019,Milwaukee Bucks,MIL,114,San Antonio Spurs,SAS,121,-7,Loss,Win,0
+453,Mon Mar 11 2019,Detroit Pistons,DET,75,Brooklyn Nets,BRK,103,-28,Loss,Loss,1
+454,Mon Mar 11 2019,Toronto Raptors,TOR,101,Cleveland Cavaliers,CLE,126,-25,Loss,Win,0
+455,Mon Mar 11 2019,Charlotte Hornets,CHO,106,Houston Rockets,HOU,118,-12,Loss,Loss,1
+456,Mon Mar 11 2019,Boston Celtics,BOS,115,Los Angeles Clippers,LAC,140,-25,Loss,Win,0
+457,Mon Mar 11 2019,Oklahoma City Thunder,OKC,98,Utah Jazz,UTA,89,9,Win,Win,1
+458,Mon Mar 11 2019,Sacramento Kings,SAC,115,Washington Wizards,WAS,121,-6,Loss,Win,0
+459,Tue Mar 12 2019,Los Angeles Lakers,LAL,123,Chicago Bulls,CHI,107,16,Win,Win,1
+460,Tue Mar 12 2019,San Antonio Spurs,SAS,112,Dallas Mavericks,DAL,105,7,Win,Win,1
+461,Tue Mar 12 2019,Minnesota Timberwolves,MIN,107,Denver Nuggets,DEN,133,-26,Loss,Loss,1
+462,Tue Mar 12 2019,New York Knicks,NYK,98,Indiana Pacers,IND,103,-5,Loss,Loss,1
+463,Tue Mar 12 2019,Portland Trail Blazers,POR,125,Los Angeles Clippers,LAC,104,21,Win,Win,1
+464,Tue Mar 12 2019,Milwaukee Bucks,MIL,130,New Orleans Pelicans,NOP,113,17,Win,Win,1
+465,Tue Mar 12 2019,Cleveland Cavaliers,CLE,99,Philadelphia 76ers,PHI,106,-7,Loss,Loss,1
+466,Wed Mar 13 2019,Memphis Grizzlies,MEM,111,Atlanta Hawks,ATL,132,-21,Loss,Win,0
+467,Wed Mar 13 2019,Golden State Warriors,GSW,106,Houston Rockets,HOU,104,2,Win,Win,1
+468,Wed Mar 13 2019,Detroit Pistons,DET,74,Miami Heat,MIA,108,-34,Loss,Loss,1
+469,Wed Mar 13 2019,Brooklyn Nets,BRK,96,Oklahoma City Thunder,OKC,108,-12,Loss,Loss,1
+470,Wed Mar 13 2019,Utah Jazz,UTA,114,Phoenix Suns,PHO,97,17,Win,Win,1
+471,Wed Mar 13 2019,Orlando Magic,ORL,90,Washington Wizards,WAS,100,-10,Loss,Win,0
+472,Thu Mar 14 2019,Sacramento Kings,SAC,120,Boston Celtics,BOS,126,-6,Loss,Loss,1
+473,Thu Mar 14 2019,Dallas Mavericks,DAL,99,Denver Nuggets,DEN,100,-1,Loss,Loss,1
+474,Thu Mar 14 2019,Oklahoma City Thunder,OKC,106,Indiana Pacers,IND,108,-2,Loss,Loss,1
+475,Thu Mar 14 2019,Cleveland Cavaliers,CLE,91,Orlando Magic,ORL,120,-29,Loss,Loss,1
+476,Thu Mar 14 2019,Los Angeles Lakers,LAL,98,Toronto Raptors,TOR,111,-13,Loss,Loss,1
+477,Thu Mar 14 2019,Minnesota Timberwolves,MIN,100,Utah Jazz,UTA,120,-20,Loss,Loss,1
+478,Fri Mar 15 2019,Los Angeles Lakers,LAL,97,Detroit Pistons,DET,111,-14,Loss,Loss,1
+479,Fri Mar 15 2019,Phoenix Suns,PHO,102,Houston Rockets,HOU,108,-6,Loss,Loss,1
+480,Fri Mar 15 2019,Chicago Bulls,CHI,121,Los Angeles Clippers,LAC,128,-7,Loss,Loss,1
+481,Fri Mar 15 2019,Milwaukee Bucks,MIL,113,Miami Heat,MIA,98,15,Win,Win,1
+482,Fri Mar 15 2019,Portland Trail Blazers,POR,122,New Orleans Pelicans,NOP,110,12,Win,Win,1
+483,Fri Mar 15 2019,Sacramento Kings,SAC,114,Philadelphia 76ers,PHI,123,-9,Loss,Loss,1
+484,Fri Mar 15 2019,New York Knicks,NYK,83,San Antonio Spurs,SAS,109,-26,Loss,Loss,1
+485,Fri Mar 15 2019,Charlotte Hornets,CHO,116,Washington Wizards,WAS,110,6,Win,Loss,0
+486,Sat Mar 16 2019,Atlanta Hawks,ATL,120,Boston Celtics,BOS,129,-9,Loss,Loss,1
+487,Sat Mar 16 2019,Cleveland Cavaliers,CLE,116,Dallas Mavericks,DAL,121,-5,Loss,Loss,1
+488,Sat Mar 16 2019,Indiana Pacers,IND,100,Denver Nuggets,DEN,102,-2,Loss,Loss,1
+489,Sat Mar 16 2019,Phoenix Suns,PHO,138,New Orleans Pelicans,NOP,136,2,Win,Loss,0
+490,Sat Mar 16 2019,Golden State Warriors,GSW,110,Oklahoma City Thunder,OKC,88,22,Win,Win,1
+491,Sat Mar 16 2019,Portland Trail Blazers,POR,103,San Antonio Spurs,SAS,108,-5,Loss,Win,0
+492,Sat Mar 16 2019,Brooklyn Nets,BRK,98,Utah Jazz,UTA,114,-16,Loss,Loss,1
+493,Sat Mar 16 2019,Memphis Grizzlies,MEM,128,Washington Wizards,WAS,135,-7,Loss,Loss,1
+494,Sun Mar 17 2019,Toronto Raptors,TOR,107,Detroit Pistons,DET,110,-3,Loss,Win,0
+495,Sun Mar 17 2019,Minnesota Timberwolves,MIN,102,Houston Rockets,HOU,117,-15,Loss,Loss,1
+496,Sun Mar 17 2019,Brooklyn Nets,BRK,116,Los Angeles Clippers,LAC,119,-3,Loss,Loss,1
+497,Sun Mar 17 2019,Charlotte Hornets,CHO,75,Miami Heat,MIA,93,-18,Loss,Loss,1
+498,Sun Mar 17 2019,Philadelphia 76ers,PHI,130,Milwaukee Bucks,MIL,125,5,Win,Loss,0
+499,Sun Mar 17 2019,Los Angeles Lakers,LAL,123,New York Knicks,NYK,124,-1,Loss,Win,0
+500,Sun Mar 17 2019,Atlanta Hawks,ATL,91,Orlando Magic,ORL,101,-10,Loss,Loss,1
+501,Sun Mar 17 2019,Chicago Bulls,CHI,102,Sacramento Kings,SAC,129,-27,Loss,Loss,1
+502,Mon Mar 18 2019,Denver Nuggets,DEN,114,Boston Celtics,BOS,105,9,Win,Win,1
+503,Mon Mar 18 2019,Detroit Pistons,DET,119,Cleveland Cavaliers,CLE,126,-7,Loss,Win,0
+504,Mon Mar 18 2019,New Orleans Pelicans,NOP,129,Dallas Mavericks,DAL,125,4,Win,Win,1
+505,Mon Mar 18 2019,Miami Heat,MIA,116,Oklahoma City Thunder,OKC,107,9,Win,Loss,0
+506,Mon Mar 18 2019,Chicago Bulls,CHI,116,Phoenix Suns,PHO,101,15,Win,Win,1
+507,Mon Mar 18 2019,Indiana Pacers,IND,98,Portland Trail Blazers,POR,106,-8,Loss,Win,0
+508,Mon Mar 18 2019,Golden State Warriors,GSW,105,San Antonio Spurs,SAS,111,-6,Loss,Win,0
+509,Mon Mar 18 2019,New York Knicks,NYK,92,Toronto Raptors,TOR,128,-36,Loss,Loss,1
+510,Mon Mar 18 2019,Utah Jazz,UTA,116,Washington Wizards,WAS,95,21,Win,Win,1
+511,Tue Mar 19 2019,Houston Rockets,HOU,121,Atlanta Hawks,ATL,105,16,Win,Win,1
+512,Tue Mar 19 2019,Philadelphia 76ers,PHI,118,Charlotte Hornets,CHO,114,4,Win,Win,1
+513,Tue Mar 19 2019,Indiana Pacers,IND,109,Los Angeles Clippers,LAC,115,-6,Loss,Win,0
+514,Tue Mar 19 2019,Los Angeles Lakers,LAL,101,Milwaukee Bucks,MIL,115,-14,Loss,Loss,1
+515,Tue Mar 19 2019,Golden State Warriors,GSW,117,Minnesota Timberwolves,MIN,107,10,Win,Win,1
+516,Tue Mar 19 2019,Brooklyn Nets,BRK,123,Sacramento Kings,SAC,121,2,Win,Loss,0
+517,Wed Mar 20 2019,Washington Wizards,WAS,120,Chicago Bulls,CHI,126,-6,Loss,Win,0
+518,Wed Mar 20 2019,Milwaukee Bucks,MIL,102,Cleveland Cavaliers,CLE,107,-5,Loss,Win,0
+519,Wed Mar 20 2019,Houston Rockets,HOU,125,Memphis Grizzlies,MEM,126,-1,Loss,Win,0
+520,Wed Mar 20 2019,Utah Jazz,UTA,137,New York Knicks,NYK,116,21,Win,Win,1
+521,Wed Mar 20 2019,Toronto Raptors,TOR,123,Oklahoma City Thunder,OKC,114,9,Win,Win,1
+522,Wed Mar 20 2019,New Orleans Pelicans,NOP,96,Orlando Magic,ORL,119,-23,Loss,Loss,1
+523,Wed Mar 20 2019,Boston Celtics,BOS,115,Philadelphia 76ers,PHI,118,-3,Loss,Loss,1
+524,Wed Mar 20 2019,Dallas Mavericks,DAL,118,Portland Trail Blazers,POR,126,-8,Loss,Loss,1
+525,Wed Mar 20 2019,Miami Heat,MIA,110,San Antonio Spurs,SAS,105,5,Win,Loss,0
+526,Thu Mar 21 2019,Utah Jazz,UTA,114,Atlanta Hawks,ATL,117,-3,Loss,Win,0
+527,Thu Mar 21 2019,Minnesota Timberwolves,MIN,106,Charlotte Hornets,CHO,113,-7,Loss,Win,0
+528,Thu Mar 21 2019,Indiana Pacers,IND,89,Golden State Warriors,GSW,112,-23,Loss,Loss,1
+529,Thu Mar 21 2019,Detroit Pistons,DET,118,Phoenix Suns,PHO,98,20,Win,Win,1
+530,Thu Mar 21 2019,Dallas Mavericks,DAL,100,Sacramento Kings,SAC,116,-16,Loss,Loss,1
+531,Thu Mar 21 2019,Denver Nuggets,DEN,113,Washington Wizards,WAS,108,5,Win,Win,1
+532,Fri Mar 22 2019,Los Angeles Clippers,LAC,110,Cleveland Cavaliers,CLE,108,2,Win,Win,1
+533,Fri Mar 22 2019,San Antonio Spurs,SAS,105,Houston Rockets,HOU,111,-6,Loss,Loss,1
+534,Fri Mar 22 2019,Brooklyn Nets,BRK,111,Los Angeles Lakers,LAL,106,5,Win,Win,1
+535,Fri Mar 22 2019,Miami Heat,MIA,87,Milwaukee Bucks,MIL,116,-29,Loss,Loss,1
+536,Fri Mar 22 2019,Denver Nuggets,DEN,111,New York Knicks,NYK,93,18,Win,Win,1
+537,Fri Mar 22 2019,Memphis Grizzlies,MEM,119,Orlando Magic,ORL,123,-4,Loss,Loss,1
+538,Fri Mar 22 2019,Oklahoma City Thunder,OKC,116,Toronto Raptors,TOR,109,7,Win,Loss,0
+539,Sat Mar 23 2019,Philadelphia 76ers,PHI,127,Atlanta Hawks,ATL,129,-2,Loss,Win,0
+540,Sat Mar 23 2019,Utah Jazz,UTA,114,Chicago Bulls,CHI,83,31,Win,Win,1
+541,Sat Mar 23 2019,Boston Celtics,BOS,117,Charlotte Hornets,CHO,124,-7,Loss,Win,0
+542,Sat Mar 23 2019,Dallas Mavericks,DAL,126,Golden State Warriors,GSW,91,35,Win,Loss,0
+543,Sat Mar 23 2019,Minnesota Timberwolves,MIN,112,Memphis Grizzlies,MEM,99,13,Win,Win,1
+544,Sat Mar 23 2019,Detroit Pistons,DET,112,Portland Trail Blazers,POR,117,-5,Loss,Loss,1
+545,Sat Mar 23 2019,Phoenix Suns,PHO,103,Sacramento Kings,SAC,112,-9,Loss,Loss,1
+546,Sat Mar 23 2019,Miami Heat,MIA,113,Washington Wizards,WAS,108,5,Win,Win,1
+547,Sun Mar 24 2019,San Antonio Spurs,SAS,115,Boston Celtics,BOS,96,19,Win,Loss,0
+548,Sun Mar 24 2019,Detroit Pistons,DET,114,Golden State Warriors,GSW,121,-7,Loss,Loss,1
+549,Sun Mar 24 2019,Denver Nuggets,DEN,88,Indiana Pacers,IND,124,-36,Loss,Win,0
+550,Sun Mar 24 2019,Sacramento Kings,SAC,106,Los Angeles Lakers,LAL,111,-5,Win,Loss,0
+551,Sun Mar 24 2019,Cleveland Cavaliers,CLE,105,Milwaukee Bucks,MIL,127,-22,Loss,Loss,1
+552,Sun Mar 24 2019,Houston Rockets,HOU,113,New Orleans Pelicans,NOP,90,23,Win,Win,1
+553,Sun Mar 24 2019,Los Angeles Clippers,LAC,124,New York Knicks,NYK,113,11,Win,Win,1
+554,Sun Mar 24 2019,Charlotte Hornets,CHO,115,Toronto Raptors,TOR,114,1,Win,Loss,0
+555,Mon Mar 25 2019,Oklahoma City Thunder,OKC,103,Memphis Grizzlies,MEM,115,-12,Loss,Win,0
+556,Mon Mar 25 2019,Philadelphia 76ers,PHI,98,Orlando Magic,ORL,119,-21,Loss,Win,0
+557,Mon Mar 25 2019,Brooklyn Nets,BRK,144,Portland Trail Blazers,POR,148,-4,Loss,Loss,1
+558,Mon Mar 25 2019,Phoenix Suns,PHO,92,Utah Jazz,UTA,125,-33,Loss,Loss,1
+559,Tue Mar 26 2019,San Antonio Spurs,SAS,116,Charlotte Hornets,CHO,125,-9,Loss,Win,0
+560,Tue Mar 26 2019,Boston Celtics,BOS,116,Cleveland Cavaliers,CLE,106,10,Win,Win,1
+561,Tue Mar 26 2019,Sacramento Kings,SAC,125,Dallas Mavericks,DAL,121,4,Win,Win,1
+562,Tue Mar 26 2019,Detroit Pistons,DET,92,Denver Nuggets,DEN,95,-3,Loss,Loss,1
+563,Tue Mar 26 2019,Washington Wizards,WAS,106,Los Angeles Lakers,LAL,124,-18,Loss,Loss,1
+564,Tue Mar 26 2019,Orlando Magic,ORL,104,Miami Heat,MIA,99,5,Win,Win,1
+565,Tue Mar 26 2019,Houston Rockets,HOU,94,Milwaukee Bucks,MIL,108,-14,Loss,Loss,1
+566,Tue Mar 26 2019,Los Angeles Clippers,LAC,122,Minnesota Timberwolves,MIN,111,11,Win,Win,1
+567,Tue Mar 26 2019,Atlanta Hawks,ATL,130,New Orleans Pelicans,NOP,120,10,Win,Loss,0
+568,Tue Mar 26 2019,Chicago Bulls,CHI,103,Toronto Raptors,TOR,112,-9,Loss,Loss,1
+569,Wed Mar 27 2019,Portland Trail Blazers,POR,118,Chicago Bulls,CHI,98,20,Win,Win,1
+570,Wed Mar 27 2019,Golden State Warriors,GSW,118,Memphis Grizzlies,MEM,103,15,Win,Win,1
+571,Wed Mar 27 2019,Indiana Pacers,IND,99,Oklahoma City Thunder,OKC,107,-8,Loss,Loss,1
+572,Wed Mar 27 2019,Washington Wizards,WAS,124,Phoenix Suns,PHO,121,3,Win,Win,1
+573,Wed Mar 27 2019,Los Angeles Lakers,LAL,100,Utah Jazz,UTA,115,-15,Loss,Loss,1
+574,Thu Mar 28 2019,Orlando Magic,ORL,98,Detroit Pistons,DET,115,-17,Loss,Loss,1
+575,Thu Mar 28 2019,Denver Nuggets,DEN,85,Houston Rockets,HOU,112,-27,Loss,Win,0
+576,Thu Mar 28 2019,Dallas Mavericks,DAL,99,Miami Heat,MIA,105,-6,Loss,Loss,1
+577,Thu Mar 28 2019,Los Angeles Clippers,LAC,118,Milwaukee Bucks,MIL,128,-10,Loss,Loss,1
+578,Thu Mar 28 2019,Sacramento Kings,SAC,118,New Orleans Pelicans,NOP,121,-3,Win,Loss,0
+579,Thu Mar 28 2019,Toronto Raptors,TOR,117,New York Knicks,NYK,92,25,Win,Win,1
+580,Thu Mar 28 2019,Brooklyn Nets,BRK,110,Philadelphia 76ers,PHI,123,-13,Loss,Loss,1
+581,Thu Mar 28 2019,Cleveland Cavaliers,CLE,110,San Antonio Spurs,SAS,116,-6,Loss,Loss,1
+582,Fri Mar 29 2019,Portland Trail Blazers,POR,118,Atlanta Hawks,ATL,98,20,Win,Win,1
+583,Fri Mar 29 2019,Indiana Pacers,IND,112,Boston Celtics,BOS,114,-2,Loss,Loss,1
+584,Fri Mar 29 2019,Charlotte Hornets,CHO,115,Los Angeles Lakers,LAL,129,-14,Loss,Loss,1
+585,Fri Mar 29 2019,Golden State Warriors,GSW,130,Minnesota Timberwolves,MIN,131,-1,Loss,Win,0
+586,Fri Mar 29 2019,Denver Nuggets,DEN,115,Oklahoma City Thunder,OKC,105,10,Win,Win,1
+587,Fri Mar 29 2019,Washington Wizards,WAS,124,Utah Jazz,UTA,128,-4,Loss,Loss,1
+588,Sat Mar 30 2019,Boston Celtics,BOS,96,Brooklyn Nets,BRK,110,-14,Loss,Win,0
+589,Sat Mar 30 2019,Toronto Raptors,TOR,124,Chicago Bulls,CHI,101,23,Win,Win,1
+590,Sat Mar 30 2019,Portland Trail Blazers,POR,90,Detroit Pistons,DET,99,-9,Loss,Win,0
+591,Sat Mar 30 2019,Sacramento Kings,SAC,108,Houston Rockets,HOU,119,-11,Loss,Loss,1
+592,Sat Mar 30 2019,Orlando Magic,ORL,121,Indiana Pacers,IND,116,5,Win,Loss,0
+593,Sat Mar 30 2019,Cleveland Cavaliers,CLE,108,Los Angeles Clippers,LAC,132,-24,Loss,Loss,1
+594,Sat Mar 30 2019,Philadelphia 76ers,PHI,118,Minnesota Timberwolves,MIN,109,9,Win,Win,1
+595,Sat Mar 30 2019,Miami Heat,MIA,100,New York Knicks,NYK,92,8,Win,Win,1
+596,Sat Mar 30 2019,Memphis Grizzlies,MEM,120,Phoenix Suns,PHO,115,5,Win,Win,1
+597,Sun Mar 31 2019,Milwaukee Bucks,MIL,135,Atlanta Hawks,ATL,136,-1,Loss,Win,0
+598,Sun Mar 31 2019,Washington Wizards,WAS,95,Denver Nuggets,DEN,90,5,Win,Loss,0
+599,Sun Mar 31 2019,Charlotte Hornets,CHO,90,Golden State Warriors,GSW,137,-47,Loss,Loss,1
+600,Sun Mar 31 2019,Memphis Grizzlies,MEM,96,Los Angeles Clippers,LAC,113,-17,Loss,Loss,1
+601,Sun Mar 31 2019,Los Angeles Lakers,LAL,130,New Orleans Pelicans,NOP,102,28,Win,Win,1
+602,Sun Mar 31 2019,Dallas Mavericks,DAL,106,Oklahoma City Thunder,OKC,103,3,Win,Loss,0
+603,Sun Mar 31 2019,Sacramento Kings,SAC,113,San Antonio Spurs,SAS,106,7,Win,Loss,0
+604,Mon Apr 1 2019,Miami Heat,MIA,105,Boston Celtics,BOS,110,-5,Loss,Loss,1
+605,Mon Apr 1 2019,Milwaukee Bucks,MIL,131,Brooklyn Nets,BRK,121,10,Win,Win,1
+606,Mon Apr 1 2019,Philadelphia 76ers,PHI,102,Dallas Mavericks,DAL,122,-20,Loss,Win,0
+607,Mon Apr 1 2019,Detroit Pistons,DET,102,Indiana Pacers,IND,111,-9,Loss,Loss,1
+608,Mon Apr 1 2019,Portland Trail Blazers,POR,132,Minnesota Timberwolves,MIN,122,10,Win,Win,1
+609,Mon Apr 1 2019,Chicago Bulls,CHI,105,New York Knicks,NYK,113,-8,Loss,Win,0
+610,Mon Apr 1 2019,Cleveland Cavaliers,CLE,113,Phoenix Suns,PHO,122,-9,Loss,Loss,1
+611,Mon Apr 1 2019,Orlando Magic,ORL,109,Toronto Raptors,TOR,121,-12,Loss,Loss,1
+612,Mon Apr 1 2019,Charlotte Hornets,CHO,102,Utah Jazz,UTA,111,-9,Loss,Loss,1
+613,Tue Apr 2 2019,Denver Nuggets,DEN,102,Golden State Warriors,GSW,116,-14,Loss,Loss,1
+614,Tue Apr 2 2019,Los Angeles Lakers,LAL,103,Oklahoma City Thunder,OKC,119,-16,Loss,Loss,1
+615,Tue Apr 2 2019,Houston Rockets,HOU,130,Sacramento Kings,SAC,105,25,Win,Win,1
+616,Tue Apr 2 2019,Atlanta Hawks,ATL,111,San Antonio Spurs,SAS,117,-6,Loss,Loss,1
+617,Wed Apr 3 2019,Philadelphia 76ers,PHI,122,Atlanta Hawks,ATL,130,-8,Loss,Win,0
+618,Wed Apr 3 2019,Toronto Raptors,TOR,115,Brooklyn Nets,BRK,105,10,Win,Win,1
+619,Wed Apr 3 2019,Minnesota Timberwolves,MIN,110,Dallas Mavericks,DAL,108,2,Win,Win,1
+620,Wed Apr 3 2019,San Antonio Spurs,SAS,85,Denver Nuggets,DEN,113,-28,Loss,Loss,1
+621,Wed Apr 3 2019,Indiana Pacers,IND,108,Detroit Pistons,DET,89,19,Win,Win,1
+622,Wed Apr 3 2019,Houston Rockets,HOU,135,Los Angeles Clippers,LAC,103,32,Win,Win,1
+623,Wed Apr 3 2019,Boston Celtics,BOS,112,Miami Heat,MIA,102,10,Win,Win,1
+624,Wed Apr 3 2019,Charlotte Hornets,CHO,115,New Orleans Pelicans,NOP,109,6,Win,Win,1
+625,Wed Apr 3 2019,New York Knicks,NYK,100,Orlando Magic,ORL,114,-14,Loss,Loss,1
+626,Wed Apr 3 2019,Utah Jazz,UTA,118,Phoenix Suns,PHO,97,21,Win,Win,1
+627,Wed Apr 3 2019,Memphis Grizzlies,MEM,89,Portland Trail Blazers,POR,116,-27,Loss,Loss,1
+628,Wed Apr 3 2019,Chicago Bulls,CHI,115,Washington Wizards,WAS,114,1,Win,Loss,0
+629,Thu Apr 4 2019,Golden State Warriors,GSW,108,Los Angeles Lakers,LAL,90,18,Win,Win,1
+630,Thu Apr 4 2019,Milwaukee Bucks,MIL,128,Philadelphia 76ers,PHI,122,6,Win,Win,1
+631,Thu Apr 4 2019,Cleveland Cavaliers,CLE,104,Sacramento Kings,SAC,117,-13,Loss,Loss,1
+632,Fri Apr 5 2019,Toronto Raptors,TOR,111,Charlotte Hornets,CHO,113,-2,Loss,Win,0
+633,Fri Apr 5 2019,Memphis Grizzlies,MEM,122,Dallas Mavericks,DAL,112,10,Win,Win,1
+634,Fri Apr 5 2019,Portland Trail Blazers,POR,110,Denver Nuggets,DEN,119,-9,Loss,Loss,1
+635,Fri Apr 5 2019,Cleveland Cavaliers,CLE,114,Golden State Warriors,GSW,120,-6,Loss,Loss,1
+636,Fri Apr 5 2019,New York Knicks,NYK,96,Houston Rockets,HOU,120,-24,Loss,Loss,1
+637,Fri Apr 5 2019,Boston Celtics,BOS,117,Indiana Pacers,IND,97,20,Win,Win,1
+638,Fri Apr 5 2019,Los Angeles Lakers,LAL,122,Los Angeles Clippers,LAC,117,5,Win,Loss,0
+639,Fri Apr 5 2019,Miami Heat,MIA,109,Minnesota Timberwolves,MIN,111,-2,Loss,Win,0
+640,Fri Apr 5 2019,Detroit Pistons,DET,110,Oklahoma City Thunder,OKC,123,-13,Loss,Loss,1
+641,Fri Apr 5 2019,Atlanta Hawks,ATL,113,Orlando Magic,ORL,149,-36,Loss,Loss,1
+642,Fri Apr 5 2019,New Orleans Pelicans,NOP,126,Phoenix Suns,PHO,133,-7,Win,Loss,0
+643,Fri Apr 5 2019,Sacramento Kings,SAC,98,Utah Jazz,UTA,119,-21,Loss,Loss,1
+644,Fri Apr 5 2019,San Antonio Spurs,SAS,129,Washington Wizards,WAS,112,17,Win,Win,1
+645,Sat Apr 6 2019,Philadelphia 76ers,PHI,116,Chicago Bulls,CHI,96,20,Win,Win,1
+646,Sat Apr 6 2019,Brooklyn Nets,BRK,133,Milwaukee Bucks,MIL,128,5,Win,Loss,0
+647,Sun Apr 7 2019,Orlando Magic,ORL,116,Boston Celtics,BOS,108,8,Win,Loss,0
+648,Sun Apr 7 2019,San Antonio Spurs,SAS,112,Cleveland Cavaliers,CLE,90,22,Win,Win,1
+649,Sun Apr 7 2019,Charlotte Hornets,CHO,104,Detroit Pistons,DET,91,13,Win,Win,1
+650,Sun Apr 7 2019,Los Angeles Clippers,LAC,104,Golden State Warriors,GSW,131,-27,Loss,Loss,1
+651,Sun Apr 7 2019,Phoenix Suns,PHO,113,Houston Rockets,HOU,149,-36,Loss,Loss,1
+652,Sun Apr 7 2019,Brooklyn Nets,BRK,108,Indiana Pacers,IND,96,12,Win,Loss,0
+653,Sun Apr 7 2019,Utah Jazz,UTA,109,Los Angeles Lakers,LAL,113,-4,Win,Loss,0
+654,Sun Apr 7 2019,Dallas Mavericks,DAL,129,Memphis Grizzlies,MEM,127,2,Win,Win,1
+655,Sun Apr 7 2019,Atlanta Hawks,ATL,107,Milwaukee Bucks,MIL,115,-8,Loss,Loss,1
+656,Sun Apr 7 2019,Oklahoma City Thunder,OKC,132,Minnesota Timberwolves,MIN,126,6,Win,Win,1
+657,Sun Apr 7 2019,Washington Wizards,WAS,110,New York Knicks,NYK,113,-3,Win,Loss,0
+658,Sun Apr 7 2019,Denver Nuggets,DEN,108,Portland Trail Blazers,POR,115,-7,Win,Loss,0
+659,Sun Apr 7 2019,New Orleans Pelicans,NOP,133,Sacramento Kings,SAC,129,4,Loss,Win,0
+660,Sun Apr 7 2019,Miami Heat,MIA,109,Toronto Raptors,TOR,117,-8,Loss,Loss,1
+661,Tue Apr 9 2019,New York Knicks,NYK,96,Chicago Bulls,CHI,86,10,Win,Loss,0
+662,Tue Apr 9 2019,Charlotte Hornets,CHO,124,Cleveland Cavaliers,CLE,97,27,Win,Win,1
+663,Tue Apr 9 2019,Phoenix Suns,PHO,109,Dallas Mavericks,DAL,120,-11,Loss,Loss,1
+664,Tue Apr 9 2019,Memphis Grizzlies,MEM,93,Detroit Pistons,DET,100,-7,Loss,Loss,1
+665,Tue Apr 9 2019,Portland Trail Blazers,POR,104,Los Angeles Lakers,LAL,101,3,Win,Win,1
+666,Tue Apr 9 2019,Philadelphia 76ers,PHI,99,Miami Heat,MIA,122,-23,Loss,Win,0
+667,Tue Apr 9 2019,Toronto Raptors,TOR,120,Minnesota Timberwolves,MIN,100,20,Win,Win,1
+668,Tue Apr 9 2019,Golden State Warriors,GSW,112,New Orleans Pelicans,NOP,103,9,Win,Win,1
+669,Tue Apr 9 2019,Houston Rockets,HOU,111,Oklahoma City Thunder,OKC,112,-1,Loss,Loss,1
+670,Tue Apr 9 2019,Denver Nuggets,DEN,108,Utah Jazz,UTA,118,-10,Loss,Loss,1
+671,Tue Apr 9 2019,Boston Celtics,BOS,116,Washington Wizards,WAS,110,6,Win,Win,1
+672,Wed Apr 10 2019,Indiana Pacers,IND,135,Atlanta Hawks,ATL,134,1,Win,Win,1
+673,Wed Apr 10 2019,Miami Heat,MIA,94,Brooklyn Nets,BRK,113,-19,Loss,Loss,1
+674,Wed Apr 10 2019,Orlando Magic,ORL,122,Charlotte Hornets,CHO,114,8,Win,Win,1
+675,Wed Apr 10 2019,Minnesota Timberwolves,MIN,95,Denver Nuggets,DEN,99,-4,Loss,Loss,1
+676,Wed Apr 10 2019,Utah Jazz,UTA,137,Los Angeles Clippers,LAC,143,-6,Loss,Loss,1
+677,Wed Apr 10 2019,Golden State Warriors,GSW,117,Memphis Grizzlies,MEM,132,-15,Loss,Win,0
+678,Wed Apr 10 2019,Oklahoma City Thunder,OKC,127,Milwaukee Bucks,MIL,116,11,Loss,Win,0
+679,Wed Apr 10 2019,Detroit Pistons,DET,115,New York Knicks,NYK,89,26,Win,Win,1
+680,Wed Apr 10 2019,Chicago Bulls,CHI,109,Philadelphia 76ers,PHI,125,-16,Loss,Loss,1
+681,Wed Apr 10 2019,Sacramento Kings,SAC,131,Portland Trail Blazers,POR,136,-5,Loss,Loss,1
+682,Wed Apr 10 2019,Dallas Mavericks,DAL,94,San Antonio Spurs,SAS,105,-11,Loss,Loss,1
